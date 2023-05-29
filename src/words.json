@@ -1,0 +1,3907 @@
+{
+  "words": [
+    {
+      "id" : 1,
+      "Kanji": "人",
+      "hiragana": "ひと",
+      "type": "Noun",
+      "Meaning": "Person"
+    },
+    {
+      "id" : 2,
+      "Kanji": "一つ",
+      "hiragana": "ひとつ",
+      "type": "Noun",
+      "Meaning": "One"
+    },
+    {
+      "id" : 3,
+      "Kanji": "大学",
+      "hiragana": "だいがく",
+      "type": "Noun",
+      "Meaning": "University"
+    },
+    {
+      "Kanji": "学校",
+      "hiragana": "がっこう",
+      "type": "Noun",
+      "Meaning": "School"
+    },
+    {
+      "Kanji": "犬",
+      "hiragana": "いぬ",
+      "type": "Noun",
+      "Meaning": "Dog"
+    },
+    {
+      "Kanji": "猫",
+      "hiragana": "ねこ",
+      "type": "Noun",
+      "Meaning": "Cat"
+    },
+    {
+      "Kanji": "本",
+      "hiragana": "ほん",
+      "type": "Noun",
+      "Meaning": "Book"
+    },
+    {
+      "Kanji": "車",
+      "hiragana": "くるま",
+      "type": "Noun",
+      "Meaning": "Car"
+    },
+    {
+      "Kanji": "町",
+      "hiragana": "まち",
+      "type": "Noun",
+      "Meaning": "Town"
+    },
+    {
+      "Kanji": "魚",
+      "hiragana": "さかな",
+      "type": "Noun",
+      "Meaning": "Fish"
+    },
+    {
+      "Kanji": "鳥",
+      "hiragana": "とり",
+      "type": "Noun",
+      "Meaning": "Bird"
+    },
+    {
+      "Kanji": "木",
+      "hiragana": "き",
+      "type": "Noun",
+      "Meaning": "Tree"
+    },
+    {
+      "Kanji": "山",
+      "hiragana": "やま",
+      "type": "Noun",
+      "Meaning": "Mountain"
+    },
+    {
+      "Kanji": "川",
+      "hiragana": "かわ",
+      "type": "Noun",
+      "Meaning": "River"
+    },
+    {
+      "Kanji": "花",
+      "hiragana": "はな",
+      "type": "Noun",
+      "Meaning": "Flower"
+    },
+    {
+      "Kanji": "電車",
+      "hiragana": "でんしゃ",
+      "type": "Noun",
+      "Meaning": "Train"
+    },
+    {
+      "Kanji": "飛行機",
+      "hiragana": "ひこうき",
+      "type": "Noun",
+      "Meaning": "Airplane"
+    },
+    {
+      "Kanji": "市場",
+      "hiragana": "いちば",
+      "type": "Noun",
+      "Meaning": "Market"
+    },
+    {
+      "Kanji": "野球",
+      "hiragana": "やきゅう",
+      "type": "Noun",
+      "Meaning": "Baseball"
+    },
+    {
+      "Kanji": "野菜",
+      "hiragana": "やさい",
+      "type": "Noun",
+      "Meaning": "Vegetable"
+    },
+    {
+      "Kanji": "時間",
+      "hiragana": "じかん",
+      "type": "Noun",
+      "Meaning": "Time"
+    },
+    {
+      "Kanji": "音楽",
+      "hiragana": "おんがく",
+      "type": "Noun",
+      "Meaning": "Music"
+    },
+    {
+      "Kanji": "家族",
+      "hiragana": "かぞく",
+      "type": "Noun",
+      "Meaning": "Family"
+    },
+    {
+      "Kanji": "街",
+      "hiragana": "まち",
+      "type": "Noun",
+      "Meaning": "City"
+    },
+    {
+      "Kanji": "天気",
+      "hiragana": "てんき",
+      "type": "Noun",
+      "Meaning": "Weather"
+    },
+    {
+      "Kanji": "星",
+      "hiragana": "ほし",
+      "type": "Noun",
+      "Meaning": "Star"
+    },
+    {
+      "Kanji": "地球",
+      "hiragana": "ちきゅう",
+      "type": "Noun",
+      "Meaning": "Earth"
+    },
+    {
+      "Kanji": "月",
+      "hiragana": "つき",
+      "type": "Noun",
+      "Meaning": "Moon"
+    },
+    {
+      "Kanji": "風",
+      "hiragana": "かぜ",
+      "type": "Noun",
+      "Meaning": "Wind"
+    },
+    {
+      "Kanji": "雨",
+      "hiragana": "あめ",
+      "type": "Noun",
+      "Meaning": "Rain"
+    },
+    {
+      "Kanji": "雪",
+      "hiragana": "ゆき",
+      "type": "Noun",
+      "Meaning": "Snow"
+    },
+    {
+      "Kanji": "先生",
+      "hiragana": "せんせい",
+      "type": "Noun",
+      "Meaning": "Teacher"
+    },
+    {
+      "Kanji": "子供",
+      "hiragana": "こども",
+      "type": "Noun",
+      "Meaning": "Child"
+    },
+    {
+      "Kanji": "動物",
+      "hiragana": "どうぶつ",
+      "type": "Noun",
+      "Meaning": "Animal"
+    },
+    {
+      "Kanji": "鳴る",
+      "hiragana": "なる",
+      "type": "Verb",
+      "Meaning": "To ring/to sound"
+    },
+    {
+      "Kanji": "走る",
+      "hiragana": "はしる",
+      "type": "Verb",
+      "Meaning": "To run"
+    },
+    {
+      "Kanji": "泳ぐ",
+      "hiragana": "およぐ",
+      "type": "Verb",
+      "Meaning": "To swim"
+    },
+    {
+      "Kanji": "飛ぶ",
+      "hiragana": "とぶ",
+      "type": "Verb",
+      "Meaning": "To fly"
+    },
+    {
+      "Kanji": "歩く",
+      "hiragana": "あるく",
+      "type": "Verb",
+      "Meaning": "To walk"
+    },
+    {
+      "Kanji": "読む",
+      "hiragana": "よむ",
+      "type": "Verb",
+      "Meaning": "To read"
+    },
+    {
+      "Kanji": "書く",
+      "hiragana": "かく",
+      "type": "Verb",
+      "Meaning": "To write"
+    },
+    {
+      "Kanji": "聞く",
+      "hiragana": "きく",
+      "type": "Verb",
+      "Meaning": "To listen/to hear"
+    },
+    {
+      "Kanji": "話す",
+      "hiragana": "はなす",
+      "type": "Verb",
+      "Meaning": "To speak"
+    },
+    {
+      "Kanji": "見る",
+      "hiragana": "みる",
+      "type": "Verb",
+      "Meaning": "To see"
+    },
+    {
+      "Kanji": "食べる",
+      "hiragana": "たべる",
+      "type": "Verb",
+      "Meaning": "To eat"
+    },
+    {
+      "Kanji": "寝る",
+      "hiragana": "ねる",
+      "type": "Verb",
+      "Meaning": "To sleep"
+    },
+    {
+      "Kanji": "知る",
+      "hiragana": "しる",
+      "type": "Verb",
+      "Meaning": "To know"
+    },
+    {
+      "Kanji": "行く",
+      "hiragana": "いく",
+      "type": "Verb",
+      "Meaning": "To go"
+    },
+    {
+      "Kanji": "来る",
+      "hiragana": "くる",
+      "type": "Verb",
+      "Meaning": "To come"
+    },
+    {
+      "Kanji": "早い",
+      "hiragana": "はやい",
+      "type": "Adjective",
+      "Meaning": "Fast/early"
+    },
+    {
+      "Kanji": "高い",
+      "hiragana": "たかい",
+      "type": "Adjective",
+      "Meaning": "High/expensive"
+    },
+    {
+      "Kanji": "広い",
+      "hiragana": "ひろい",
+      "type": "Adjective",
+      "Meaning": "Wide/spacious"
+    },
+    {
+      "Kanji": "新しい",
+      "hiragana": "あたらしい",
+      "type": "Adjective",
+      "Meaning": "New"
+    },
+    {
+      "Kanji": "美しい",
+      "hiragana": "うつくしい",
+      "type": "Adjective",
+      "Meaning": "Beautiful"
+    },
+    {
+      "Kanji": "静かな",
+      "hiragana": "しずかな",
+      "type": "Adjective",
+      "Meaning": "Quiet"
+    },
+    {
+      "Kanji": "暑い",
+      "hiragana": "あつい",
+      "type": "Adjective",
+      "Meaning": "Hot"
+    },
+    {
+      "Kanji": "寒い",
+      "hiragana": "さむい",
+      "type": "Adjective",
+      "Meaning": "Cold"
+    },
+    {
+      "Kanji": "楽しい",
+      "hiragana": "たのしい",
+      "type": "Adjective",
+      "Meaning": "Fun/enjoyable"
+    },
+    {
+      "Kanji": "難しい",
+      "hiragana": "むずかしい",
+      "type": "Adjective",
+      "Meaning": "Difficult"
+    },
+    {
+      "Kanji": "嬉しい",
+      "hiragana": "うれしい",
+      "type": "Adjective",
+      "Meaning": "Happy/pleased"
+    },
+    {
+      "Kanji": "速い",
+      "hiragana": "はやい",
+      "type": "Adjective",
+      "Meaning": "Fast/quick"
+    },
+    {
+      "Kanji": "強い",
+      "hiragana": "つよい",
+      "type": "Adjective",
+      "Meaning": "Strong"
+    },
+    {
+      "Kanji": "弱い",
+      "hiragana": "よわい",
+      "type": "Adjective",
+      "Meaning": "Weak"
+    },
+    {
+      "Kanji": "大きい",
+      "hiragana": "おおきい",
+      "type": "Adjective",
+      "Meaning": "Big/large"
+    },
+    {
+      "Kanji": "小さい",
+      "hiragana": "ちいさい",
+      "type": "Adjective",
+      "Meaning": "Small/little"
+    },
+    {
+      "Kanji": "良い",
+      "hiragana": "よい",
+      "type": "Adjective",
+      "Meaning": "Good"
+    },
+    {
+      "Kanji": "悪い",
+      "hiragana": "わるい",
+      "type": "Adjective",
+      "Meaning": "Bad"
+    },
+    {
+      "Kanji": "多い",
+      "hiragana": "おおい",
+      "type": "Adjective",
+      "Meaning": "Many"
+    },
+    {
+      "Kanji": "少ない",
+      "hiragana": "すくない",
+      "type": "Adjective",
+      "Meaning": "Few/little"
+    },
+    {
+      "Kanji": "早く",
+      "hiragana": "はやく",
+      "type": "Adverb",
+      "Meaning": "Quickly"
+    },
+    {
+      "Kanji": "高く",
+      "hiragana": "たかく",
+      "type": "Adverb",
+      "Meaning": "Highly/expensively"
+    },
+    {
+      "Kanji": "広く",
+      "hiragana": "ひろく",
+      "type": "Adverb",
+      "Meaning": "Widely/spaciously"
+    },
+    {
+      "Kanji": "新しく",
+      "hiragana": "あたらしく",
+      "type": "Adverb",
+      "Meaning": "Newly"
+    },
+    {
+      "Kanji": "美しく",
+      "hiragana": "うつくしく",
+      "type": "Adverb",
+      "Meaning": "Beautifully"
+    },
+    {
+      "Kanji": "静かに",
+      "hiragana": "しずかに",
+      "type": "Adverb",
+      "Meaning": "Quietly"
+    },
+    {
+      "Kanji": "暑く",
+      "hiragana": "あつく",
+      "type": "Adverb",
+      "Meaning": "Hotly"
+    },
+    {
+      "Kanji": "寒く",
+      "hiragana": "さむく",
+      "type": "Adverb",
+      "Meaning": "Coldly"
+    },
+    {
+      "Kanji": "楽しく",
+      "hiragana": "たのしく",
+      "type": "Adverb",
+      "Meaning": "Enjoyably"
+    },
+    {
+      "Kanji": "難しく",
+      "hiragana": "むずかしく",
+      "type": "Adverb",
+      "Meaning": "Difficultly"
+    },
+    {
+      "Kanji": "嬉しく",
+      "hiragana": "うれしく",
+      "type": "Adverb",
+      "Meaning": "Happily"
+    },
+    {
+      "Kanji": "速く",
+      "hiragana": "はやく",
+      "type": "Adverb",
+      "Meaning": "Quickly"
+    },
+    {
+      "Kanji": "強く",
+      "hiragana": "つよく",
+      "type": "Adverb",
+      "Meaning": "Strongly"
+    },
+    {
+      "Kanji": "弱く",
+      "hiragana": "よわく",
+      "type": "Adverb",
+      "Meaning": "Weakly"
+    },
+    {
+      "Kanji": "大きく",
+      "hiragana": "おおきく",
+      "type": "Adverb",
+      "Meaning": "Big/largely"
+    },
+    {
+      "Kanji": "小さく",
+      "hiragana": "ちいさく",
+      "type": "Adverb",
+      "Meaning": "Small/little"
+    },
+    {
+      "Kanji": "良く",
+      "hiragana": "よく",
+      "type": "Adverb",
+      "Meaning": "Well"
+    },
+    {
+      "Kanji": "悪く",
+      "hiragana": "わるく",
+      "type": "Adverb",
+      "Meaning": "Badly"
+    },
+    {
+      "Kanji": "多く",
+      "hiragana": "おおく",
+      "type": "Adverb",
+      "Meaning": "Much/many"
+    },
+    {
+      "Kanji": "少なく",
+      "hiragana": "すくなく",
+      "type": "Adverb",
+      "Meaning": "Fewly/little"
+    },
+    {
+      "Kanji": "風味",
+      "hiragana": "ふうみ",
+      "type": "Noun",
+      "Meaning": "Flavor"
+    },
+    {
+      "Kanji": "経験",
+      "hiragana": "けいけん",
+      "type": "Noun",
+      "Meaning": "Experience"
+    },
+    {
+      "Kanji": "知識",
+      "hiragana": "ちしき",
+      "type": "Noun",
+      "Meaning": "Knowledge"
+    },
+    {
+      "Kanji": "感情",
+      "hiragana": "かんじょう",
+      "type": "Noun",
+      "Meaning": "Emotion"
+    },
+    {
+      "Kanji": "目的",
+      "hiragana": "もくてき",
+      "type": "Noun",
+      "Meaning": "Purpose"
+    },
+    {
+      "Kanji": "成功",
+      "hiragana": "せいこう",
+      "type": "Noun",
+      "Meaning": "Success"
+    },
+    {
+      "Kanji": "失敗",
+      "hiragana": "しっぱい",
+      "type": "Noun",
+      "Meaning": "Failure"
+    },
+    {
+      "Kanji": "希望",
+      "hiragana": "きぼう",
+      "type": "Noun",
+      "Meaning": "Hope"
+    },
+    {
+      "Kanji": "努力",
+      "hiragana": "どりょく",
+      "type": "Noun",
+      "Meaning": "Effort"
+    },
+    {
+      "Kanji": "心配",
+      "hiragana": "しんぱい",
+      "type": "Noun",
+      "Meaning": "Worry"
+    },
+    {
+      "Kanji": "幸福",
+      "hiragana": "こうふく",
+      "type": "Noun",
+      "Meaning": "Happiness"
+    },
+    {
+      "Kanji": "未来",
+      "hiragana": "みらい",
+      "type": "Noun",
+      "Meaning": "Future"
+    },
+    {
+      "Kanji": "自由",
+      "hiragana": "じゆう",
+      "type": "Noun",
+      "Meaning": "Freedom"
+    },
+    {
+      "Kanji": "健康",
+      "hiragana": "けんこう",
+      "type": "Noun",
+      "Meaning": "Health"
+    },
+    {
+      "Kanji": "友達",
+      "hiragana": "ともだち",
+      "type": "Noun",
+      "Meaning": "Friend"
+    },
+    {
+      "Kanji": "夢",
+      "hiragana": "ゆめ",
+      "type": "Noun",
+      "Meaning": "Dream"
+    },
+    {
+      "Kanji": "市民",
+      "hiragana": "しみん",
+      "type": "Noun",
+      "Meaning": "Citizen"
+    },
+    {
+      "Kanji": "愛",
+      "hiragana": "あい",
+      "type": "Noun",
+      "Meaning": "Love"
+    },
+    {
+      "Kanji": "文化",
+      "hiragana": "ぶんか",
+      "type": "Noun",
+      "Meaning": "Culture"
+    },
+    {
+      "Kanji": "世界",
+      "hiragana": "せかい",
+      "type": "Noun",
+      "Meaning": "World"
+    },
+    {
+      "Kanji": "言葉",
+      "hiragana": "ことば",
+      "type": "Noun",
+      "Meaning": "Language/word"
+    },
+    {
+      "Kanji": "歴史",
+      "hiragana": "れきし",
+      "type": "Noun",
+      "Meaning": "History"
+    },
+    {
+      "Kanji": "宇宙",
+      "hiragana": "うちゅう",
+      "type": "Noun",
+      "Meaning": "Universe"
+    },
+    {
+      "Kanji": "鏡",
+      "hiragana": "かがみ",
+      "type": "Noun",
+      "Meaning": "Mirror"
+    },
+    {
+      "Kanji": "火",
+      "hiragana": "ひ",
+      "type": "Noun",
+      "Meaning": "Fire"
+    },
+    {
+      "Kanji": "地下",
+      "hiragana": "ちか",
+      "type": "Noun",
+      "Meaning": "Underground"
+    },
+    {
+      "Kanji": "光",
+      "hiragana": "ひかり",
+      "type": "Noun",
+      "Meaning": "Light"
+    },
+    {
+      "Kanji": "暗闇",
+      "hiragana": "くらやみ",
+      "type": "Noun",
+      "Meaning": "Darkness"
+    },
+    {
+      "Kanji": "塵",
+      "hiragana": "ちり",
+      "type": "Noun",
+      "Meaning": "Dust"
+    },
+    {
+      "Kanji": "空気",
+      "hiragana": "くうき",
+      "type": "Noun",
+      "Meaning": "Air"
+    },
+    {
+      "Kanji": "風景",
+      "hiragana": "ふうけい",
+      "type": "Noun",
+      "Meaning": "Scenery"
+    },
+    {
+      "Kanji": "秋",
+      "hiragana": "あき",
+      "type": "Noun",
+      "Meaning": "Autumn"
+    },
+    {
+      "Kanji": "夏",
+      "hiragana": "なつ",
+      "type": "Noun",
+      "Meaning": "Summer"
+    },
+    {
+      "Kanji": "冬",
+      "hiragana": "ふゆ",
+      "type": "Noun",
+      "Meaning": "Winter"
+    },
+    {
+      "Kanji": "春",
+      "hiragana": "はる",
+      "type": "Noun",
+      "Meaning": "Spring"
+    },
+    {
+      "Kanji": "雲",
+      "hiragana": "くも",
+      "type": "Noun",
+      "Meaning": "Cloud"
+    },
+    {
+      "Kanji": "雷",
+      "hiragana": "かみなり",
+      "type": "Noun",
+      "Meaning": "Thunder"
+    },
+    {
+      "Kanji": "桜",
+      "hiragana": "さくら",
+      "type": "Noun",
+      "Meaning": "Cherry Blossom"
+    },
+    {
+      "Kanji": "波",
+      "hiragana": "なみ",
+      "type": "Noun",
+      "Meaning": "Wave"
+    },
+    {
+      "Kanji": "日本",
+      "hiragana": "にほん",
+      "type": "Noun",
+      "Meaning": "Japan"
+    },
+    {
+      "Kanji": "響き",
+      "hiragana": "ひびき",
+      "type": "Noun",
+      "Meaning": "Echo/sound"
+    },
+    {
+      "Kanji": "未知",
+      "hiragana": "みち",
+      "type": "Noun",
+      "Meaning": "Unknown"
+    },
+    {
+      "Kanji": "思考",
+      "hiragana": "しこう",
+      "type": "Noun",
+      "Meaning": "Thinking"
+    },
+    {
+      "Kanji": "語学",
+      "hiragana": "ごがく",
+      "type": "Noun",
+      "Meaning": "Language study"
+    },
+    {
+      "Kanji": "旅行",
+      "hiragana": "りょこう",
+      "type": "Noun",
+      "Meaning": "Travel"
+    },
+    {
+      "Kanji": "絆",
+      "hiragana": "きずな",
+      "type": "Noun",
+      "Meaning": "Bond"
+    },
+    {
+      "Kanji": "集中",
+      "hiragana": "しゅうちゅう",
+      "type": "Noun",
+      "Meaning": "Concentration"
+    },
+    {
+      "Kanji": "作品",
+      "hiragana": "さくひん",
+      "type": "Noun",
+      "Meaning": "Work (artistic)"
+    },
+    {
+      "Kanji": "絵画",
+      "hiragana": "かいが",
+      "type": "Noun",
+      "Meaning": "Painting"
+    },
+    {
+      "Kanji": "音響",
+      "hiragana": "おんきょう",
+      "type": "Noun",
+      "Meaning": "Acoustics"
+    },
+    {
+      "Kanji": "風速",
+      "hiragana": "ふうそく",
+      "type": "Noun",
+      "Meaning": "Wind speed"
+    },
+    {
+      "Kanji": "美味",
+      "hiragana": "びみ",
+      "type": "Noun",
+      "Meaning": "Delicious"
+    },
+    {
+      "Kanji": "作曲",
+      "hiragana": "さっきょく",
+      "type": "Noun",
+      "Meaning": "Composition (music)"
+    },
+    {
+      "Kanji": "音符",
+      "hiragana": "おんぷ",
+      "type": "Noun",
+      "Meaning": "Musical note"
+    },
+    {
+      "Kanji": "祭り",
+      "hiragana": "まつり",
+      "type": "Noun",
+      "Meaning": "Festival"
+    },
+    {
+      "Kanji": "習慣",
+      "hiragana": "しゅうかん",
+      "type": "Noun",
+      "Meaning": "Habit/custom"
+    },
+    {
+      "Kanji": "仕事",
+      "hiragana": "しごと",
+      "type": "Noun",
+      "Meaning": "Work/job"
+    },
+    {
+      "Kanji": "芸術",
+      "hiragana": "げいじゅつ",
+      "type": "Noun",
+      "Meaning": "Art"
+    },
+    {
+      "Kanji": "忍者",
+      "hiragana": "にんじゃ",
+      "type": "Noun",
+      "Meaning": "Ninja"
+    },
+    {
+      "Kanji": "親子",
+      "hiragana": "おやこ",
+      "type": "Noun",
+      "Meaning": "Parent and child"
+    },
+    {
+      "Kanji": "感謝",
+      "hiragana": "かんしゃ",
+      "type": "Noun",
+      "Meaning": "Gratitude"
+    },
+    {
+      "Kanji": "勇気",
+      "hiragana": "ゆうき",
+      "type": "Noun",
+      "Meaning": "Courage"
+    },
+    {
+      "Kanji": "祈り",
+      "hiragana": "いのり",
+      "type": "Noun",
+      "Meaning": "Prayer"
+    },
+    {
+      "Kanji": "芸能",
+      "hiragana": "げいのう",
+      "type": "Noun",
+      "Meaning": "Performing arts"
+    },
+    {
+      "Kanji": "理解",
+      "hiragana": "りかい",
+      "type": "Noun",
+      "Meaning": "Understanding"
+    },
+    {
+      "Kanji": "感動",
+      "hiragana": "かんどう",
+      "type": "Noun",
+      "Meaning": "Impression/emotion"
+    },
+    {
+      "Kanji": "思い出",
+      "hiragana": "おもいで",
+      "type": "Noun",
+      "Meaning": "Memory/recollection"
+    },
+    {
+      "Kanji": "気持ち",
+      "hiragana": "きもち",
+      "type": "Noun",
+      "Meaning": "Feeling/sensation"
+    },
+    {
+      "Kanji": "歌手",
+      "hiragana": "かしゅ",
+      "type": "Noun",
+      "Meaning": "Singer"
+    },
+    {
+      "Kanji": "恋愛",
+      "hiragana": "れんあい",
+      "type": "Noun",
+      "Meaning": "Romance/love"
+    },
+    {
+      "Kanji": "恐怖",
+      "hiragana": "きょうふ",
+      "type": "Noun",
+      "Meaning": "Fear"
+    },
+    {
+      "Kanji": "悲劇",
+      "hiragana": "ひげき",
+      "type": "Noun",
+      "Meaning": "Tragedy"
+    },
+    {
+      "Kanji": "笑顔",
+      "hiragana": "えがお",
+      "type": "Noun",
+      "Meaning": "Smile"
+    },
+    {
+      "Kanji": "涙",
+      "hiragana": "なみだ",
+      "type": "Noun",
+      "Meaning": "Tears"
+    },
+    {
+      "Kanji": "笑い",
+      "hiragana": "わらい",
+      "type": "Noun",
+      "Meaning": "Laughter"
+    },
+    {
+      "Kanji": "高校生",
+      "hiragana": "こうこうせい",
+      "type": "Noun",
+      "Meaning": "High school student"
+    },
+    {
+      "Kanji": "大学生",
+      "hiragana": "だいがくせい",
+      "type": "Noun",
+      "Meaning": "University student"
+    },
+    {
+      "Kanji": "教師",
+      "hiragana": "きょうし",
+      "type": "Noun",
+      "Meaning": "Teacher"
+    },
+    {
+      "Kanji": "学生",
+      "hiragana": "がくせい",
+      "type": "Noun",
+      "Meaning": "Student"
+    },
+    {
+      "Kanji": "先生",
+      "hiragana": "せんせい",
+      "type": "Noun",
+      "Meaning": "Teacher"
+    },
+    {
+      "Kanji": "研究",
+      "hiragana": "けんきゅう",
+      "type": "Noun",
+      "Meaning": "Research"
+    },
+    {
+      "Kanji": "参加",
+      "hiragana": "さんか",
+      "type": "Noun",
+      "Meaning": "Participation"
+    },
+    {
+      "Kanji": "勉強",
+      "hiragana": "べんきょう",
+      "type": "Noun",
+      "Meaning": "Study"
+    },
+    {
+      "Kanji": "成績",
+      "hiragana": "せいせき",
+      "type": "Noun",
+      "Meaning": "Academic achievement"
+    },
+    {
+      "Kanji": "休暇",
+      "hiragana": "きゅうか",
+      "type": "Noun",
+      "Meaning": "Vacation"
+    },
+    {
+      "Kanji": "時間",
+      "hiragana": "じかん",
+      "type": "Noun",
+      "Meaning": "Time"
+    },
+    {
+      "Kanji": "助ける",
+      "hiragana": "たすける",
+      "type": "Verb",
+      "Meaning": "To help"
+    },
+    {
+      "Kanji": "進む",
+      "hiragana": "すすむ",
+      "type": "Verb",
+      "Meaning": "To advance"
+    },
+    {
+      "Kanji": "着く",
+      "hiragana": "つく",
+      "type": "Verb",
+      "Meaning": "To arrive"
+    },
+    {
+      "Kanji": "消える",
+      "hiragana": "きえる",
+      "type": "Verb",
+      "Meaning": "To disappear"
+    },
+    {
+      "Kanji": "出発",
+      "hiragana": "しゅっぱつ",
+      "type": "Noun",
+      "Meaning": "Departure"
+    },
+    {
+      "Kanji": "到着",
+      "hiragana": "とうちゃく",
+      "type": "Noun",
+      "Meaning": "Arrival"
+    },
+    {
+      "Kanji": "移動",
+      "hiragana": "いどう",
+      "type": "Noun",
+      "Meaning": "Movement"
+    },
+    {
+      "Kanji": "旅",
+      "hiragana": "たび",
+      "type": "Noun",
+      "Meaning": "Journey"
+    },
+    {
+      "Kanji": "地球",
+      "hiragana": "ちきゅう",
+      "type": "Noun",
+      "Meaning": "Earth"
+    },
+    {
+      "Kanji": "風",
+      "hiragana": "かぜ",
+      "type": "Noun",
+      "Meaning": "Wind"
+    },
+    {
+      "Kanji": "神",
+      "hiragana": "かみ",
+      "type": "Noun",
+      "Meaning": "God"
+    },
+    {
+      "Kanji": "心",
+      "hiragana": "こころ",
+      "type": "Noun",
+      "Meaning": "Heart/mind"
+    },
+    {
+      "Kanji": "天国",
+      "hiragana": "てんごく",
+      "type": "Noun",
+      "Meaning": "Heaven"
+    },
+    {
+      "Kanji": "地獄",
+      "hiragana": "じごく",
+      "type": "Noun",
+      "Meaning": "Hell"
+    },
+    {
+      "Kanji": "平和",
+      "hiragana": "へいわ",
+      "type": "Noun",
+      "Meaning": "Peace"
+    },
+    {
+      "Kanji": "意味",
+      "hiragana": "いみ",
+      "type": "Noun",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "夢中",
+      "hiragana": "むちゅう",
+      "type": "Noun",
+      "Meaning": "Absorbed/engrossed"
+    },
+    {
+      "Kanji": "運命",
+      "hiragana": "うんめい",
+      "type": "Noun",
+      "Meaning": "Destiny/fate"
+    },
+    {
+      "Kanji": "目標",
+      "hiragana": "もくひょう",
+      "type": "Noun",
+      "Meaning": "Goal/objective"
+    },
+    {
+      "Kanji": "信じる",
+      "hiragana": "しんじる",
+      "type": "Verb",
+      "Meaning": "To believe"
+    },
+    {
+      "Kanji": "感じる",
+      "hiragana": "かんじる",
+      "type": "Verb",
+      "Meaning": "To feel/sense"
+    },
+    {
+      "Kanji": "祝う",
+      "hiragana": "いわう",
+      "type": "Verb",
+      "Meaning": "To celebrate"
+    },
+    {
+      "Kanji": "受け入れる",
+      "hiragana": "うけいれる",
+      "type": "Verb",
+      "Meaning": "To accept"
+    },
+    {
+      "Kanji": "追いかける",
+      "hiragana": "おいかける",
+      "type": "Verb",
+      "Meaning": "To chase/pursue"
+    },
+    {
+      "Kanji": "発見",
+      "hiragana": "はっけん",
+      "type": "Noun",
+      "Meaning": "Discovery"
+    },
+    {
+      "Kanji": "意見",
+      "hiragana": "いけん",
+      "type": "Noun",
+      "Meaning": "Opinion"
+    },
+    {
+      "Kanji": "秘密",
+      "hiragana": "ひみつ",
+      "type": "Noun",
+      "Meaning": "Secret"
+    },
+    {
+      "Kanji": "奇跡",
+      "hiragana": "きせき",
+      "type": "Noun",
+      "Meaning": "Miracle"
+    },
+    {
+      "Kanji": "隠す",
+      "hiragana": "かくす",
+      "type": "Verb",
+      "Meaning": "To hide"
+    },
+    {
+      "Kanji": "傷つける",
+      "hiragana": "きずつける",
+      "type": "Verb",
+      "Meaning": "To hurt/injure"
+    },
+    {
+      "Kanji": "怒る",
+      "hiragana": "おこる",
+      "type": "Verb",
+      "Meaning": "To get angry"
+    },
+    {
+      "Kanji": "笑う",
+      "hiragana": "わらう",
+      "type": "Verb",
+      "Meaning": "To laugh"
+    },
+    {
+      "Kanji": "泣く",
+      "hiragana": "なく",
+      "type": "Verb",
+      "Meaning": "To cry"
+    },
+    {
+      "Kanji": "興味",
+      "hiragana": "きょうみ",
+      "type": "Noun",
+      "Meaning": "Interest"
+    },
+    {
+      "Kanji": "目立つ",
+      "hiragana": "めだつ",
+      "type": "Verb",
+      "Meaning": "To stand out"
+    },
+    {
+      "Kanji": "迷う",
+      "hiragana": "まよう",
+      "type": "Verb",
+      "Meaning": "To get lost"
+    },
+    {
+      "Kanji": "望む",
+      "hiragana": "のぞむ",
+      "type": "Verb",
+      "Meaning": "To wish/desire"
+    },
+    {
+      "Kanji": "歓迎",
+      "hiragana": "かんげい",
+      "type": "Noun",
+      "Meaning": "Welcome"
+    },
+    {
+      "Kanji": "失望",
+      "hiragana": "しつぼう",
+      "type": "Noun",
+      "Meaning": "Disappointment"
+    },
+    {
+      "Kanji": "感じ",
+      "hiragana": "かんじ",
+      "type": "Noun",
+      "Meaning": "Sensation/feeling"
+    },
+    {
+      "Kanji": "見方",
+      "hiragana": "みかた",
+      "type": "Noun",
+      "Meaning": "Perspective/viewpoint"
+    },
+    {
+      "Kanji": "聞く",
+      "hiragana": "きく",
+      "type": "Verb",
+      "Meaning": "To listen/hear"
+    },
+    {
+      "Kanji": "会話",
+      "hiragana": "かいわ",
+      "type": "Noun",
+      "Meaning": "Conversation"
+    },
+    {
+      "Kanji": "読書",
+      "hiragana": "どくしょ",
+      "type": "Noun",
+      "Meaning": "Reading"
+    },
+    {
+      "Kanji": "描く",
+      "hiragana": "かく",
+      "type": "Verb",
+      "Meaning": "To draw"
+    },
+    {
+      "Kanji": "創造",
+      "hiragana": "そうぞう",
+      "type": "Noun",
+      "Meaning": "Creation"
+    },
+    {
+      "Kanji": "楽器",
+      "hiragana": "がっき",
+      "type": "Noun",
+      "Meaning": "Musical instrument"
+    },
+    {
+      "Kanji": "声",
+      "hiragana": "こえ",
+      "type": "Noun",
+      "Meaning": "Voice"
+    },
+    {
+      "Kanji": "表現",
+      "hiragana": "ひょうげん",
+      "type": "Noun",
+      "Meaning": "Expression"
+    },
+    {
+      "Kanji": "言葉遣い",
+      "hiragana": "ことばづかい",
+      "type": "Noun",
+      "Meaning": "Choice of words"
+    },
+    {
+      "Kanji": "演劇",
+      "hiragana": "えんげき",
+      "type": "Noun",
+      "Meaning": "Drama/theater"
+    },
+    {
+      "Kanji": "表示",
+      "hiragana": "ひょうじ",
+      "type": "Noun",
+      "Meaning": "Display/showing"
+    },
+    {
+      "Kanji": "分かち合う",
+      "hiragana": "わかちあう",
+      "type": "Verb",
+      "Meaning": "To share"
+    },
+    {
+      "Kanji": "強調",
+      "hiragana": "きょうちょう",
+      "type": "Noun",
+      "Meaning": "Emphasis"
+    },
+    {
+      "Kanji": "演奏",
+      "hiragana": "えんそう",
+      "type": "Noun",
+      "Meaning": "Performance (music)"
+    },
+    {
+      "Kanji": "音楽",
+      "hiragana": "おんがく",
+      "type": "Noun",
+      "Meaning": "Music"
+    },
+    {
+      "Kanji": "音",
+      "hiragana": "おと",
+      "type": "Noun",
+      "Meaning": "Sound"
+    },
+    {
+      "Kanji": "美術",
+      "hiragana": "びじゅつ",
+      "type": "Noun",
+      "Meaning": "Fine art"
+    },
+    {
+      "Kanji": "彫刻",
+      "hiragana": "ちょうこく",
+      "type": "Noun",
+      "Meaning": "Sculpture"
+    },
+    {
+      "Kanji": "行動",
+      "hiragana": "こうどう",
+      "type": "Noun",
+      "Meaning": "Action"
+    },
+    {
+      "Kanji": "跳ぶ",
+      "hiragana": "とぶ",
+      "type": "Verb",
+      "Meaning": "To jump"
+    },
+    {
+      "Kanji": "走る",
+      "hiragana": "はしる",
+      "type": "Verb",
+      "Meaning": "To run"
+    },
+    {
+      "Kanji": "動物",
+      "hiragana": "どうぶつ",
+      "type": "Noun",
+      "Meaning": "Animal"
+    },
+    {
+      "Kanji": "植物",
+      "hiragana": "しょくぶつ",
+      "type": "Noun",
+      "Meaning": "Plant"
+    },
+    {
+      "Kanji": "鳥",
+      "hiragana": "とり",
+      "type": "Noun",
+      "Meaning": "Bird"
+    },
+    {
+      "Kanji": "猫",
+      "hiragana": "ねこ",
+      "type": "Noun",
+      "Meaning": "Cat"
+    },
+    {
+      "Kanji": "犬",
+      "hiragana": "いぬ",
+      "type": "Noun",
+      "Meaning": "Dog"
+    },
+    {
+      "Kanji": "馬",
+      "hiragana": "うま",
+      "type": "Noun",
+      "Meaning": "Horse"
+    },
+    {
+      "Kanji": "魚",
+      "hiragana": "さかな",
+      "type": "Noun",
+      "Meaning": "Fish"
+    },
+    {
+      "Kanji": "虫",
+      "hiragana": "むし",
+      "type": "Noun",
+      "Meaning": "Insect"
+    },
+    {
+      "Kanji": "花",
+      "hiragana": "はな",
+      "type": "Noun",
+      "Meaning": "Flower"
+    },
+    {
+      "Kanji": "森",
+      "hiragana": "もり",
+      "type": "Noun",
+      "Meaning": "Forest"
+    },
+    {
+      "Kanji": "川",
+      "hiragana": "かわ",
+      "type": "Noun",
+      "Meaning": "River"
+    },
+    {
+      "Kanji": "海",
+      "hiragana": "うみ",
+      "type": "Noun",
+      "Meaning": "Sea/Ocean"
+    },
+    {
+      "Kanji": "山",
+      "hiragana": "やま",
+      "type": "Noun",
+      "Meaning": "Mountain"
+    },
+    {
+      "Kanji": "家",
+      "hiragana": "いえ",
+      "type": "Noun",
+      "Meaning": "House/home"
+    },
+    {
+      "Kanji": "街",
+      "hiragana": "まち",
+      "type": "Noun",
+      "Meaning": "Town/city"
+    },
+    {
+      "Kanji": "空港",
+      "hiragana": "くうこう",
+      "type": "Noun",
+      "Meaning": "Airport"
+    },
+    {
+      "Kanji": "駅",
+      "hiragana": "えき",
+      "type": "Noun",
+      "Meaning": "Train station"
+    },
+    {
+      "Kanji": "バス停",
+      "hiragana": "バスてい",
+      "type": "Noun",
+      "Meaning": "Bus stop"
+    },
+    {
+      "Kanji": "道路",
+      "hiragana": "どうろ",
+      "type": "Noun",
+      "Meaning": "Road"
+    },
+    {
+      "Kanji": "町並み",
+      "hiragana": "まちなみ",
+      "type": "Noun",
+      "Meaning": "Streetscape/townscape"
+    },
+    {
+      "Kanji": "道具",
+      "hiragana": "どうぐ",
+      "type": "Noun",
+      "Meaning": "Tool/instrument"
+    },
+    {
+      "Kanji": "建物",
+      "hiragana": "たてもの",
+      "type": "Noun",
+      "Meaning": "Building"
+    },
+    {
+      "Kanji": "城",
+      "hiragana": "しろ",
+      "type": "Noun",
+      "Meaning": "Castle"
+    },
+    {
+      "Kanji": "神社",
+      "hiragana": "じんじゃ",
+      "type": "Noun",
+      "Meaning": "Shinto shrine"
+    },
+    {
+      "Kanji": "寺院",
+      "hiragana": "じいん",
+      "type": "Noun",
+      "Meaning": "Temple"
+    },
+    {
+      "Kanji": "美しい",
+      "hiragana": "うつくしい",
+      "type": "Adjective",
+      "Meaning": "Beautiful"
+    },
+    {
+      "Kanji": "古い",
+      "hiragana": "ふるい",
+      "type": "Adjective",
+      "Meaning": "Old"
+    },
+    {
+      "Kanji": "新しい",
+      "hiragana": "あたらしい",
+      "type": "Adjective",
+      "Meaning": "New"
+    },
+    {
+      "Kanji": "高い",
+      "hiragana": "たかい",
+      "type": "Adjective",
+      "Meaning": "High/tall"
+    },
+    {
+      "Kanji": "低い",
+      "hiragana": "ひくい",
+      "type": "Adjective",
+      "Meaning": "Low/short"
+    },
+    {
+      "Kanji": "広い",
+      "hiragana": "ひろい",
+      "type": "Adjective",
+      "Meaning": "Wide/spacious"
+    },
+    {
+      "Kanji": "狭い",
+      "hiragana": "せまい",
+      "type": "Adjective",
+      "Meaning": "Narrow"
+    },
+    {
+      "Kanji": "暖かい",
+      "hiragana": "あたたかい",
+      "type": "Adjective",
+      "Meaning": "Warm"
+    },
+    {
+      "Kanji": "冷たい",
+      "hiragana": "つめたい",
+      "type": "Adjective",
+      "Meaning": "Cold"
+    },
+    {
+      "Kanji": "明るい",
+      "hiragana": "あかるい",
+      "type": "Adjective",
+      "Meaning": "Bright"
+    },
+    {
+      "Kanji": "暗い",
+      "hiragana": "くらい",
+      "type": "Adjective",
+      "Meaning": "Dark"
+    },
+    {
+      "Kanji": "美しい",
+      "hiragana": "うつくしい",
+      "type": "Adjective",
+      "Meaning": "Beautiful"
+    },
+    {
+      "Kanji": "醜い",
+      "hiragana": "みにくい",
+      "type": "Adjective",
+      "Meaning": "Ugly"
+    },
+    {
+      "Kanji": "静かな",
+      "hiragana": "しずかな",
+      "type": "Adjective",
+      "Meaning": "Quiet"
+    },
+    {
+      "Kanji": "騒々しい",
+      "hiragana": "そうぞうしい",
+      "type": "Adjective",
+      "Meaning": "Noisy"
+    },
+    {
+      "Kanji": "忙しい",
+      "hiragana": "いそがしい",
+      "type": "Adjective",
+      "Meaning": "Busy"
+    },
+    {
+      "Kanji": "のんびりした",
+      "hiragana": "のんびりした",
+      "type": "Adjective",
+      "Meaning": "Relaxed"
+    },
+    {
+      "Kanji": "素晴らしい",
+      "hiragana": "すばらしい",
+      "type": "Adjective",
+      "Meaning": "Wonderful/magnificent"
+    },
+    {
+      "Kanji": "驚くべき",
+      "hiragana": "おどろくべき",
+      "type": "Adjective",
+      "Meaning": "Amazing"
+    },
+    {
+      "Kanji": "楽しい",
+      "hiragana": "たのしい",
+      "type": "Adjective",
+      "Meaning": "Fun/enjoyable"
+    },
+    {
+      "Kanji": "退屈な",
+      "hiragana": "たいくつな",
+      "type": "Adjective",
+      "Meaning": "Boring"
+    },
+    {
+      "Kanji": "幸せな",
+      "hiragana": "しあわせな",
+      "type": "Adjective",
+      "Meaning": "Happy"
+    },
+    {
+      "Kanji": "悲しい",
+      "hiragana": "かなしい",
+      "type": "Adjective",
+      "Meaning": "Sad"
+    },
+    {
+      "Kanji": "怖い",
+      "hiragana": "こわい",
+      "type": "Adjective",
+      "Meaning": "Scary"
+    },
+    {
+      "Kanji": "嬉しい",
+      "hiragana": "うれしい",
+      "type": "Adjective",
+      "Meaning": "Glad/happy"
+    },
+    {
+      "Kanji": "苦しい",
+      "hiragana": "くるしい",
+      "type": "Adjective",
+      "Meaning": "Painful/difficult"
+    },
+    {
+      "Kanji": "優れた",
+      "hiragana": "すぐれた",
+      "type": "Adjective",
+      "Meaning": "Excellent/superior"
+    },
+    {
+      "Kanji": "効果的な",
+      "hiragana": "こうかてきな",
+      "type": "Adjective",
+      "Meaning": "Effective"
+    },
+    {
+      "Kanji": "重要な",
+      "hiragana": "じゅうような",
+      "type": "Adjective",
+      "Meaning": "Important"
+    },
+    {
+      "Kanji": "楽器",
+      "hiragana": "がっき",
+      "type": "Noun",
+      "Meaning": "Musical instrument"
+    },
+    {
+      "Kanji": "声",
+      "hiragana": "こえ",
+      "type": "Noun",
+      "Meaning": "Voice"
+    },
+    {
+      "Kanji": "表現",
+      "hiragana": "ひょうげん",
+      "type": "Noun",
+      "Meaning": "Expression"
+    },
+    {
+      "Kanji": "言葉遣い",
+      "hiragana": "ことばづかい",
+      "type": "Noun",
+      "Meaning": "Choice of words"
+    },
+    {
+      "Kanji": "演劇",
+      "hiragana": "えんげき",
+      "type": "Noun",
+      "Meaning": "Drama/theater"
+    },
+    {
+      "Kanji": "表示",
+      "hiragana": "ひょうじ",
+      "type": "Noun",
+      "Meaning": "Display/showing"
+    },
+    {
+      "Kanji": "分かち合う",
+      "hiragana": "わかちあう",
+      "type": "Verb",
+      "Meaning": "To share"
+    },
+    {
+      "Kanji": "強調",
+      "hiragana": "きょうちょう",
+      "type": "Noun",
+      "Meaning": "Emphasis"
+    },
+    {
+      "Kanji": "演奏",
+      "hiragana": "えんそう",
+      "type": "Noun",
+      "Meaning": "Performance (music)"
+    },
+    {
+      "Kanji": "音楽",
+      "hiragana": "おんがく",
+      "type": "Noun",
+      "Meaning": "Music"
+    },
+    {
+      "Kanji": "音",
+      "hiragana": "おと",
+      "type": "Noun",
+      "Meaning": "Sound"
+    },
+    {
+      "Kanji": "美術",
+      "hiragana": "びじゅつ",
+      "type": "Noun",
+      "Meaning": "Fine art"
+    },
+    {
+      "Kanji": "彫刻",
+      "hiragana": "ちょうこく",
+      "type": "Noun",
+      "Meaning": "Sculpture"
+    },
+    {
+      "Kanji": "行動",
+      "hiragana": "こうどう",
+      "type": "Noun",
+      "Meaning": "Action"
+    },
+    {
+      "Kanji": "跳ぶ",
+      "hiragana": "とぶ",
+      "type": "Verb",
+      "Meaning": "To jump"
+    },
+    {
+      "Kanji": "走る",
+      "hiragana": "はしる",
+      "type": "Verb",
+      "Meaning": "To run"
+    },
+    {
+      "Kanji": "動物",
+      "hiragana": "どうぶつ",
+      "type": "Noun",
+      "Meaning": "Animal"
+    },
+    {
+      "Kanji": "植物",
+      "hiragana": "しょくぶつ",
+      "type": "Noun",
+      "Meaning": "Plant"
+    },
+    {
+      "Kanji": "鳥",
+      "hiragana": "とり",
+      "type": "Noun",
+      "Meaning": "Bird"
+    },
+    {
+      "Kanji": "猫",
+      "hiragana": "ねこ",
+      "type": "Noun",
+      "Meaning": "Cat"
+    },
+    {
+      "Kanji": "犬",
+      "hiragana": "いぬ",
+      "type": "Noun",
+      "Meaning": "Dog"
+    },
+    {
+      "Kanji": "馬",
+      "hiragana": "うま",
+      "type": "Noun",
+      "Meaning": "Horse"
+    },
+    {
+      "Kanji": "魚",
+      "hiragana": "さかな",
+      "type": "Noun",
+      "Meaning": "Fish"
+    },
+    {
+      "Kanji": "虫",
+      "hiragana": "むし",
+      "type": "Noun",
+      "Meaning": "Insect"
+    },
+    {
+      "Kanji": "花",
+      "hiragana": "はな",
+      "type": "Noun",
+      "Meaning": "Flower"
+    },
+    {
+      "Kanji": "森",
+      "hiragana": "もり",
+      "type": "Noun",
+      "Meaning": "Forest"
+    },
+    {
+      "Kanji": "川",
+      "hiragana": "かわ",
+      "type": "Noun",
+      "Meaning": "River"
+    },
+    {
+      "Kanji": "海",
+      "hiragana": "うみ",
+      "type": "Noun",
+      "Meaning": "Sea/Ocean"
+    },
+    {
+      "Kanji": "山",
+      "hiragana": "やま",
+      "type": "Noun",
+      "Meaning": "Mountain"
+    },
+    {
+      "Kanji": "家",
+      "hiragana": "いえ",
+      "type": "Noun",
+      "Meaning": "House/home"
+    },
+    {
+      "Kanji": "街",
+      "hiragana": "まち",
+      "type": "Noun",
+      "Meaning": "Town/city"
+    },
+    {
+      "Kanji": "空港",
+      "hiragana": "くうこう",
+      "type": "Noun",
+      "Meaning": "Airport"
+    },
+    {
+      "Kanji": "駅",
+      "hiragana": "えき",
+      "type": "Noun",
+      "Meaning": "Train station"
+    },
+    {
+      "Kanji": "バス停",
+      "hiragana": "バスてい",
+      "type": "Noun",
+      "Meaning": "Bus stop"
+    },
+    {
+      "Kanji": "道路",
+      "hiragana": "どうろ",
+      "type": "Noun",
+      "Meaning": "Road"
+    },
+    {
+      "Kanji": "町並み",
+      "hiragana": "まちなみ",
+      "type": "Noun",
+      "Meaning": "Streetscape/townscape"
+    },
+    {
+      "Kanji": "道具",
+      "hiragana": "どうぐ",
+      "type": "Noun",
+      "Meaning": "Tool/instrument"
+    },
+    {
+      "Kanji": "建物",
+      "hiragana": "たてもの",
+      "type": "Noun",
+      "Meaning": "Building"
+    },
+    {
+      "Kanji": "城",
+      "hiragana": "しろ",
+      "type": "Noun",
+      "Meaning": "Castle"
+    },
+    {
+      "Kanji": "神社",
+      "hiragana": "じんじゃ",
+      "type": "Noun",
+      "Meaning": "Shinto shrine"
+    },
+    {
+      "Kanji": "寺院",
+      "hiragana": "じいん",
+      "type": "Noun",
+      "Meaning": "Temple"
+    },
+    {
+      "Kanji": "美しい",
+      "hiragana": "うつくしい",
+      "type": "Adjective",
+      "Meaning": "Beautiful"
+    },
+    {
+      "Kanji": "古い",
+      "hiragana": "ふるい",
+      "type": "Adjective",
+      "Meaning": "Old"
+    },
+    {
+      "Kanji": "新しい",
+      "hiragana": "あたらしい",
+      "type": "Adjective",
+      "Meaning": "New"
+    },
+    {
+      "Kanji": "高い",
+      "hiragana": "たかい",
+      "type": "Adjective",
+      "Meaning": "High/tall"
+    },
+    {
+      "Kanji": "低い",
+      "hiragana": "ひくい",
+      "type": "Adjective",
+      "Meaning": "Low/short"
+    },
+    {
+      "Kanji": "広い",
+      "hiragana": "ひろい",
+      "type": "Adjective",
+      "Meaning": "Wide/spacious"
+    },
+    {
+      "Kanji": "狭い",
+      "hiragana": "せまい",
+      "type": "Adjective",
+      "Meaning": "Narrow"
+    },
+    {
+      "Kanji": "暖かい",
+      "hiragana": "あたたかい",
+      "type": "Adjective",
+      "Meaning": "Warm"
+    },
+    {
+      "Kanji": "冷たい",
+      "hiragana": "つめたい",
+      "type": "Adjective",
+      "Meaning": "Cold"
+    },
+    {
+      "Kanji": "明るい",
+      "hiragana": "あかるい",
+      "type": "Adjective",
+      "Meaning": "Bright"
+    },
+    {
+      "Kanji": "暗い",
+      "hiragana": "くらい",
+      "type": "Adjective",
+      "Meaning": "Dark"
+    },
+    {
+      "Kanji": "美しい",
+      "hiragana": "うつくしい",
+      "type": "Adjective",
+      "Meaning": "Beautiful"
+    },
+    {
+      "Kanji": "醜い",
+      "hiragana": "みにくい",
+      "type": "Adjective",
+      "Meaning": "Ugly"
+    },
+    {
+      "Kanji": "静かな",
+      "hiragana": "しずかな",
+      "type": "Adjective",
+      "Meaning": "Quiet"
+    },
+    {
+      "Kanji": "騒々しい",
+      "hiragana": "そうぞうしい",
+      "type": "Adjective",
+      "Meaning": "Noisy"
+    },
+    {
+      "Kanji": "忙しい",
+      "hiragana": "いそがしい",
+      "type": "Adjective",
+      "Meaning": "Busy"
+    },
+    {
+      "Kanji": "のんびりした",
+      "hiragana": "のんびりした",
+      "type": "Adjective",
+      "Meaning": "Relaxed"
+    },
+    {
+      "Kanji": "素晴らしい",
+      "hiragana": "すばらしい",
+      "type": "Adjective",
+      "Meaning": "Wonderful/magnificent"
+    },
+    {
+      "Kanji": "驚くべき",
+      "hiragana": "おどろくべき",
+      "type": "Adjective",
+      "Meaning": "Amazing"
+    },
+    {
+      "Kanji": "楽しい",
+      "hiragana": "たのしい",
+      "type": "Adjective",
+      "Meaning": "Fun/enjoyable"
+    },
+    {
+      "Kanji": "退屈な",
+      "hiragana": "たいくつな",
+      "type": "Adjective",
+      "Meaning": "Boring"
+    },
+    {
+      "Kanji": "幸せな",
+      "hiragana": "しあわせな",
+      "type": "Adjective",
+      "Meaning": "Happy"
+    },
+    {
+      "Kanji": "悲しい",
+      "hiragana": "かなしい",
+      "type": "Adjective",
+      "Meaning": "Sad"
+    },
+    {
+      "Kanji": "怖い",
+      "hiragana": "こわい",
+      "type": "Adjective",
+      "Meaning": "Scary"
+    },
+    {
+      "Kanji": "嬉しい",
+      "hiragana": "うれしい",
+      "type": "Adjective",
+      "Meaning": "Glad/happy"
+    },
+    {
+      "Kanji": "苦しい",
+      "hiragana": "くるしい",
+      "type": "Adjective",
+      "Meaning": "Painful/difficult"
+    },
+    {
+      "Kanji": "優れた",
+      "hiragana": "すぐれた",
+      "type": "Adjective",
+      "Meaning": "Excellent/superior"
+    },
+    {
+      "Kanji": "効果的な",
+      "hiragana": "こうかてきな",
+      "type": "Adjective",
+      "Meaning": "Effective"
+    },
+    {
+      "Kanji": "重要な",
+      "hiragana": "じゅうような",
+      "type": "Adjective",
+      "Meaning": "Important"
+    },
+    {
+      "Kanji": "文化",
+      "hiragana": "ぶんか",
+      "type": "Noun",
+      "Meaning": "Culture"
+    },
+    {
+      "Kanji": "伝統",
+      "hiragana": "でんとう",
+      "type": "Noun",
+      "Meaning": "Tradition"
+    },
+    {
+      "Kanji": "祭り",
+      "hiragana": "まつり",
+      "type": "Noun",
+      "Meaning": "Festival"
+    },
+    {
+      "Kanji": "食事",
+      "hiragana": "しょくじ",
+      "type": "Noun",
+      "Meaning": "Meal"
+    },
+    {
+      "Kanji": "料理",
+      "hiragana": "りょうり",
+      "type": "Noun",
+      "Meaning": "Cuisine/cooking"
+    },
+    {
+      "Kanji": "舞台",
+      "hiragana": "ぶたい",
+      "type": "Noun",
+      "Meaning": "Stage"
+    },
+    {
+      "Kanji": "映画",
+      "hiragana": "えいが",
+      "type": "Noun",
+      "Meaning": "Movie/film"
+    },
+    {
+      "Kanji": "芸術",
+      "hiragana": "げいじゅつ",
+      "type": "Noun",
+      "Meaning": "Art"
+    },
+    {
+      "Kanji": "小説",
+      "hiragana": "しょうせつ",
+      "type": "Noun",
+      "Meaning": "Novel"
+    },
+    {
+      "Kanji": "詩",
+      "hiragana": "し",
+      "type": "Noun",
+      "Meaning": "Poem"
+    },
+    {
+      "Kanji": "観光",
+      "hiragana": "かんこう",
+      "type": "Noun",
+      "Meaning": "Sightseeing"
+    },
+    {
+      "Kanji": "写真",
+      "hiragana": "しゃしん",
+      "type": "Noun",
+      "Meaning": "Photograph"
+    },
+    {
+      "Kanji": "旅行",
+      "hiragana": "りょこう",
+      "type": "Noun",
+      "Meaning": "Travel"
+    },
+    {
+      "Kanji": "自然",
+      "hiragana": "しぜん",
+      "type": "Noun",
+      "Meaning": "Nature"
+    },
+    {
+      "Kanji": "環境",
+      "hiragana": "かんきょう",
+      "type": "Noun",
+      "Meaning": "Environment"
+    },
+    {
+      "Kanji": "地球",
+      "hiragana": "ちきゅう",
+      "type": "Noun",
+      "Meaning": "Earth"
+    },
+    {
+      "Kanji": "宇宙",
+      "hiragana": "うちゅう",
+      "type": "Noun",
+      "Meaning": "Space"
+    },
+    {
+      "Kanji": "科学",
+      "hiragana": "かがく",
+      "type": "Noun",
+      "Meaning": "Science"
+    },
+    {
+      "Kanji": "技術",
+      "hiragana": "ぎじゅつ",
+      "type": "Noun",
+      "Meaning": "Technology"
+    },
+    {
+      "Kanji": "発明",
+      "hiragana": "はつめい",
+      "type": "Noun",
+      "Meaning": "Invention"
+    },
+    {
+      "Kanji": "未来",
+      "hiragana": "みらい",
+      "type": "Noun",
+      "Meaning": "Future"
+    },
+    {
+      "Kanji": "過去",
+      "hiragana": "かこ",
+      "type": "Noun",
+      "Meaning": "Past"
+    },
+    {
+      "Kanji": "現在",
+      "hiragana": "げんざい",
+      "type": "Noun",
+      "Meaning": "Present"
+    },
+    {
+      "Kanji": "創造性",
+      "hiragana": "そうぞうせい",
+      "type": "Noun",
+      "Meaning": "Creativity"
+    },
+    {
+      "Kanji": "想像力",
+      "hiragana": "そうぞうりょく",
+      "type": "Noun",
+      "Meaning": "Imagination"
+    },
+    {
+      "Kanji": "発想",
+      "hiragana": "はっそう",
+      "type": "Noun",
+      "Meaning": "Idea/concept"
+    },
+    {
+      "Kanji": "目標",
+      "hiragana": "もくひょう",
+      "type": "Noun",
+      "Meaning": "Goal/objective"
+    },
+    {
+      "Kanji": "成果",
+      "hiragana": "せいか",
+      "type": "Noun",
+      "Meaning": "Achievement/result"
+    },
+    {
+      "Kanji": "成長",
+      "hiragana": "せいちょう",
+      "type": "Noun",
+      "Meaning": "Growth/development"
+    },
+    {
+      "Kanji": "学ぶ",
+      "hiragana": "まなぶ",
+      "type": "Verb",
+      "Meaning": "To learn"
+    },
+    {
+      "Kanji": "知識",
+      "hiragana": "ちしき",
+      "type": "Noun",
+      "Meaning": "Knowledge"
+    },
+    {
+      "Kanji": "経験",
+      "hiragana": "けいけん",
+      "type": "Noun",
+      "Meaning": "Experience"
+    },
+    {
+      "Kanji": "挑戦",
+      "hiragana": "ちょうせん",
+      "type": "Noun",
+      "Meaning": "Challenge"
+    },
+    {
+      "Kanji": "成功",
+      "hiragana": "せいこう",
+      "type": "Noun",
+      "Meaning": "Success"
+    },
+    {
+      "Kanji": "失敗",
+      "hiragana": "しっぱい",
+      "type": "Noun",
+      "Meaning": "Failure"
+    },
+    {
+      "Kanji": "努力",
+      "hiragana": "どりょく",
+      "type": "Noun",
+      "Meaning": "Effort"
+    },
+    {
+      "Kanji": "場所",
+      "hiragana": "ばしょ",
+      "type": "Noun",
+      "Meaning": "Place/location"
+    },
+    {
+      "Kanji": "世界",
+      "hiragana": "せかい",
+      "type": "Noun",
+      "Meaning": "World"
+    },
+    {
+      "Kanji": "国",
+      "hiragana": "くに",
+      "type": "Noun",
+      "Meaning": "Country"
+    },
+    {
+      "Kanji": "人々",
+      "hiragana": "ひとびと",
+      "type": "Noun",
+      "Meaning": "People"
+    },
+    {
+      "Kanji": "文明",
+      "hiragana": "ぶんめい",
+      "type": "Noun",
+      "Meaning": "Civilization"
+    },
+    {
+      "Kanji": "社会",
+      "hiragana": "しゃかい",
+      "type": "Noun",
+      "Meaning": "Society"
+    },
+    {
+      "Kanji": "平和",
+      "hiragana": "へいわ",
+      "type": "Noun",
+      "Meaning": "Peace"
+    },
+    {
+      "Kanji": "希望",
+      "hiragana": "きぼう",
+      "type": "Noun",
+      "Meaning": "Hope"
+    },
+    {
+      "Kanji": "自由",
+      "hiragana": "じゆう",
+      "type": "Noun",
+      "Meaning": "Freedom"
+    },
+    {
+      "Kanji": "平等",
+      "hiragana": "びょうどう",
+      "type": "Noun",
+      "Meaning": "Equality"
+    },
+    {
+      "Kanji": "正義",
+      "hiragana": "せいぎ",
+      "type": "Noun",
+      "Meaning": "Justice"
+    },
+    {
+      "Kanji": "個人",
+      "hiragana": "こじん",
+      "type": "Noun",
+      "Meaning": "Individual"
+    },
+    {
+      "Kanji": "団体",
+      "hiragana": "だんたい",
+      "type": "Noun",
+      "Meaning": "Organization/group"
+    },
+    {
+      "Kanji": "協力",
+      "hiragana": "きょうりょく",
+      "type": "Noun",
+      "Meaning": "Cooperation"
+    },
+    {
+      "Kanji": "和解",
+      "hiragana": "わかい",
+      "type": "Noun",
+      "Meaning": "Reconciliation"
+    },
+    {
+      "Kanji": "愛",
+      "hiragana": "あい",
+      "type": "Noun",
+      "Meaning": "Love"
+    },
+    {
+      "Kanji": "幸福",
+      "hiragana": "こうふく",
+      "type": "Noun",
+      "Meaning": "Happiness"
+    },
+    {
+      "Kanji": "思いやり",
+      "hiragana": "おもいやり",
+      "type": "Noun",
+      "Meaning": "Compassion"
+    },
+    {
+      "Kanji": "共有",
+      "hiragana": "きょうゆう",
+      "type": "Noun",
+      "Meaning": "Sharing"
+    },
+    {
+      "Kanji": "楽しみ",
+      "hiragana": "たのしみ",
+      "type": "Noun",
+      "Meaning": "Joy/enjoyment"
+    },
+    {
+      "Kanji": "成り立つ",
+      "hiragana": "なりたつ",
+      "type": "Verb",
+      "Meaning": "To be composed of/to consist of"
+    },
+    {
+      "Kanji": "持つ",
+      "hiragana": "もつ",
+      "type": "Verb",
+      "Meaning": "To have/possess"
+    },
+    {
+      "Kanji": "与える",
+      "hiragana": "あたえる",
+      "type": "Verb",
+      "Meaning": "To give/provide"
+    },
+    {
+      "Kanji": "受け入れる",
+      "hiragana": "うけいれる",
+      "type": "Verb",
+      "Meaning": "To accept/receive"
+    },
+    {
+      "Kanji": "変える",
+      "hiragana": "かえる",
+      "type": "Verb",
+      "Meaning": "To change"
+    },
+    {
+      "Kanji": "影響を与える",
+      "hiragana": "えいきょうをあたえる",
+      "type": "Verb",
+      "Meaning": "To influence"
+    },
+    {
+      "Kanji": "改善する",
+      "hiragana": "かいぜんする",
+      "type": "Verb",
+      "Meaning": "To improve"
+    },
+    {
+      "Kanji": "発展する",
+      "hiragana": "はってんする",
+      "type": "Verb",
+      "Meaning": "To develop"
+    },
+    {
+      "Kanji": "存在する",
+      "hiragana": "そんざいする",
+      "type": "Verb",
+      "Meaning": "To exist"
+    },
+    {
+      "Kanji": "理解する",
+      "hiragana": "りかいする",
+      "type": "Verb",
+      "Meaning": "To understand"
+    },
+    {
+      "Kanji": "探求する",
+      "hiragana": "たんきゅうする",
+      "type": "Verb",
+      "Meaning": "To explore/investigate"
+    },
+    {
+      "Kanji": "目指す",
+      "hiragana": "めざす",
+      "type": "Verb",
+      "Meaning": "To aim for"
+    },
+    {
+      "Kanji": "達成する",
+      "hiragana": "たっせいする",
+      "type": "Verb",
+      "Meaning": "To achieve/accomplish"
+    },
+    {
+      "Kanji": "成長する",
+      "hiragana": "せいちょうする",
+      "type": "Verb",
+      "Meaning": "To grow"
+    },
+    {
+      "Kanji": "学ぶ",
+      "hiragana": "まなぶ",
+      "type": "Verb",
+      "Meaning": "To learn"
+    },
+    {
+      "Kanji": "分かち合う",
+      "hiragana": "わかちあう",
+      "type": "Verb",
+      "Meaning": "To share"
+    },
+    {
+      "Kanji": "協力する",
+      "hiragana": "きょうりょくする",
+      "type": "Verb",
+      "Meaning": "To cooperate"
+    },
+    {
+      "Kanji": "和解する",
+      "hiragana": "わかいする",
+      "type": "Verb",
+      "Meaning": "To reconcile"
+    },
+    {
+      "Kanji": "感謝する",
+      "hiragana": "かんしゃする",
+      "type": "Verb",
+      "Meaning": "To appreciate/thank"
+    },
+    {
+      "Kanji": "成功する",
+      "hiragana": "せいこうする",
+      "type": "Verb",
+      "Meaning": "To succeed"
+    },
+    {
+      "Kanji": "失敗する",
+      "hiragana": "しっぱいする",
+      "type": "Verb",
+      "Meaning": "To fail"
+    },
+    {
+      "Kanji": "努力する",
+      "hiragana": "どりょくする",
+      "type": "Verb",
+      "Meaning": "To strive/endeavor"
+    },
+    {
+      "Kanji": "喜ぶ",
+      "hiragana": "よろこぶ",
+      "type": "Verb",
+      "Meaning": "To be happy"
+    },
+    {
+      "Kanji": "悲しむ",
+      "hiragana": "かなしむ",
+      "type": "Verb",
+      "Meaning": "To be sad"
+    },
+    {
+      "Kanji": "怒る",
+      "hiragana": "おこる",
+      "type": "Verb",
+      "Meaning": "To get angry"
+    },
+    {
+      "Kanji": "恐れる",
+      "hiragana": "おそれる",
+      "type": "Verb",
+      "Meaning": "To fear"
+    },
+    {
+      "Kanji": "夢見る",
+      "hiragana": "ゆめみる",
+      "type": "Verb",
+      "Meaning": "To dream"
+    },
+    {
+      "Kanji": "冒険する",
+      "hiragana": "ぼうけんする",
+      "type": "Verb",
+      "Meaning": "To adventure"
+    },
+    {
+      "Kanji": "探検する",
+      "hiragana": "たんけんする",
+      "type": "Verb",
+      "Meaning": "To explore"
+    },
+    {
+      "Kanji": "創造する",
+      "hiragana": "そうぞうする",
+      "type": "Verb",
+      "Meaning": "To create"
+    },
+    {
+      "Kanji": "想像する",
+      "hiragana": "そうぞうする",
+      "type": "Verb",
+      "Meaning": "To imagine"
+    },
+    {
+      "Kanji": "発想する",
+      "hiragana": "はっそうする",
+      "type": "Verb",
+      "Meaning": "To conceive/come up with"
+    },
+    {
+      "Kanji": "考える",
+      "hiragana": "かんがえる",
+      "type": "Verb",
+      "Meaning": "To think"
+    },
+    {
+      "Kanji": "見る",
+      "hiragana": "みる",
+      "type": "Verb",
+      "Meaning": "To see"
+    },
+    {
+      "Kanji": "聞く",
+      "hiragana": "きく",
+      "type": "Verb",
+      "Meaning": "To hear/listen"
+    },
+    {
+      "Kanji": "試す",
+      "hiragana": "ためす",
+      "type": "Verb",
+      "Meaning": "To try/test"
+    },
+    {
+      "Kanji": "経験する",
+      "hiragana": "けいけんする",
+      "type": "Verb",
+      "Meaning": "To experience"
+    },
+    {
+      "Kanji": "運動する",
+      "hiragana": "うんどうする",
+      "type": "Verb",
+      "Meaning": "To exercise"
+    },
+    {
+      "Kanji": "旅行する",
+      "hiragana": "りょこうする",
+      "type": "Verb",
+      "Meaning": "To travel"
+    },
+    {
+      "Kanji": "休む",
+      "hiragana": "やすむ",
+      "type": "Verb",
+      "Meaning": "To rest"
+    },
+    {
+      "Kanji": "笑う",
+      "hiragana": "わらう",
+      "type": "Verb",
+      "Meaning": "To laugh"
+    },
+    {
+      "Kanji": "泣く",
+      "hiragana": "なく",
+      "type": "Verb",
+      "Meaning": "To cry"
+    },
+    {
+      "Kanji": "歌う",
+      "hiragana": "うたう",
+      "type": "Verb",
+      "Meaning": "To sing"
+    },
+    {
+      "Kanji": "踊る",
+      "hiragana": "おどる",
+      "type": "Verb",
+      "Meaning": "To dance"
+    },
+    {
+      "Kanji": "描く",
+      "hiragana": "えがく",
+      "type": "Verb",
+      "Meaning": "To draw"
+    },
+    {
+      "Kanji": "書く",
+      "hiragana": "かく",
+      "type": "Verb",
+      "Meaning": "To write"
+    },
+    {
+      "Kanji": "読む",
+      "hiragana": "よむ",
+      "type": "Verb",
+      "Meaning": "To read"
+    },
+    {
+      "Kanji": "作る",
+      "hiragana": "つくる",
+      "type": "Verb",
+      "Meaning": "To make"
+    },
+    {
+      "Kanji": "果たす",
+      "hiragana": "はたす",
+      "type": "Verb",
+      "Meaning": "To fulfill/accomplish"
+    },
+    {
+      "Kanji": "追求する",
+      "hiragana": "ついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue"
+    },
+    {
+      "Kanji": "変化する",
+      "hiragana": "へんかする",
+      "type": "Verb",
+      "Meaning": "To change"
+    },
+    {
+      "Kanji": "理解する",
+      "hiragana": "りかいする",
+      "type": "Verb",
+      "Meaning": "To understand"
+    },
+    {
+      "Kanji": "発展する",
+      "hiragana": "はってんする",
+      "type": "Verb",
+      "Meaning": "To develop"
+    },
+    {
+      "Kanji": "存在する",
+      "hiragana": "そんざいする",
+      "type": "Verb",
+      "Meaning": "To exist"
+    },
+    {
+      "Kanji": "参加する",
+      "hiragana": "さんかする",
+      "type": "Verb",
+      "Meaning": "To participate"
+    },
+    {
+      "Kanji": "支援する",
+      "hiragana": "しえんする",
+      "type": "Verb",
+      "Meaning": "To support"
+    },
+    {
+      "Kanji": "研究する",
+      "hiragana": "けんきゅうする",
+      "type": "Verb",
+      "Meaning": "To research"
+    },
+    {
+      "Kanji": "指導する",
+      "hiragana": "しどうする",
+      "type": "Verb",
+      "Meaning": "To guide"
+    },
+    {
+      "Kanji": "交流する",
+      "hiragana": "こうりゅうする",
+      "type": "Verb",
+      "Meaning": "To interact"
+    },
+    {
+      "Kanji": "成功を祈る",
+      "hiragana": "せいこうをいのる",
+      "type": "Verb",
+      "Meaning": "To pray for success"
+    },
+    {
+      "Kanji": "目標を設定する",
+      "hiragana": "もくひょうをせっていする",
+      "type": "Verb",
+      "Meaning": "To set goals"
+    },
+    {
+      "Kanji": "挑戦する",
+      "hiragana": "ちょうせんする",
+      "type": "Verb",
+      "Meaning": "To challenge"
+    },
+    {
+      "Kanji": "理想を追求する",
+      "hiragana": "りそうをついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue ideals"
+    },
+    {
+      "Kanji": "自己啓発する",
+      "hiragana": "じこけいはつする",
+      "type": "Verb",
+      "Meaning": "To self-develop"
+    },
+    {
+      "Kanji": "自己表現する",
+      "hiragana": "じこひょうげんする",
+      "type": "Verb",
+      "Meaning": "To self-express"
+    },
+    {
+      "Kanji": "意見を述べる",
+      "hiragana": "いけんをのべる",
+      "type": "Verb",
+      "Meaning": "To express an opinion"
+    },
+    {
+      "Kanji": "創造的思考をする",
+      "hiragana": "そうぞうてきしこうをする",
+      "type": "Verb",
+      "Meaning": "To engage in creative thinking"
+    },
+    {
+      "Kanji": "問題を解決する",
+      "hiragana": "もんだいをかいけつする",
+      "type": "Verb",
+      "Meaning": "To solve a problem"
+    },
+    {
+      "Kanji": "環境を保護する",
+      "hiragana": "かんきょうをほごする",
+      "type": "Verb",
+      "Meaning": "To protect the environment"
+    },
+    {
+      "Kanji": "資源を節約する",
+      "hiragana": "しげんをせつやくする",
+      "type": "Verb",
+      "Meaning": "To conserve resources"
+    },
+    {
+      "Kanji": "多様性を尊重する",
+      "hiragana": "たようせいをそんちょうする",
+      "type": "Verb",
+      "Meaning": "To respect diversity"
+    },
+    {
+      "Kanji": "平和を築く",
+      "hiragana": "へいわをきずく",
+      "type": "Verb",
+      "Meaning": "To build peace"
+    },
+    {
+      "Kanji": "持続可能な未来を作る",
+      "hiragana": "じぞくかのうなみらいをつくる",
+      "type": "Verb",
+      "Meaning": "To create a sustainable future"
+    },
+    {
+      "Kanji": "他人に感謝する",
+      "hiragana": "たにんにかんしゃする",
+      "type": "Verb",
+      "Meaning": "To be grateful to others"
+    },
+    {
+      "Kanji": "希望を持つ",
+      "hiragana": "きぼうをもつ",
+      "type": "Verb",
+      "Meaning": "To have hope"
+    },
+    {
+      "Kanji": "自由を守る",
+      "hiragana": "じゆうをまもる",
+      "type": "Verb",
+      "Meaning": "To protect freedom"
+    },
+    {
+      "Kanji": "平等を追求する",
+      "hiragana": "びょうどうをついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue equality"
+    },
+    {
+      "Kanji": "正義を求める",
+      "hiragana": "せいぎをもとめる",
+      "type": "Verb",
+      "Meaning": "To seek justice"
+    },
+    {
+      "Kanji": "幸福を追求する",
+      "hiragana": "こうふくをついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue happiness"
+    },
+    {
+      "Kanji": "善行を行う",
+      "hiragana": "ぜんこうをおこなう",
+      "type": "Verb",
+      "Meaning": "To perform good deeds"
+    },
+    {
+      "Kanji": "協力関係を築く",
+      "hiragana": "きょうりょくかんけいをきずく",
+      "type": "Verb",
+      "Meaning": "To build a cooperative relationship"
+    },
+    {
+      "Kanji": "和解を促進する",
+      "hiragana": "わかいをそくしんする",
+      "type": "Verb",
+      "Meaning": "To promote reconciliation"
+    },
+    {
+      "Kanji": "愛を育む",
+      "hiragana": "あいをはぐくむ",
+      "type": "Verb",
+      "Meaning": "To nurture love"
+    },
+    {
+      "Kanji": "知識を増やす",
+      "hiragana": "ちしきをふやす",
+      "type": "Verb",
+      "Meaning": "To increase knowledge"
+    },
+    {
+      "Kanji": "興味を持つ",
+      "hiragana": "きょうみをもつ",
+      "type": "Verb",
+      "Meaning": "To have an interest"
+    },
+    {
+      "Kanji": "問題解決能力を高める",
+      "hiragana": "もんだいかいけつのうりょくをたかめる",
+      "type": "Verb",
+      "Meaning": "To enhance problem-solving abilities"
+    },
+    {
+      "Kanji": "コミュニケーションを取る",
+      "hiragana": "こみゅにけーしょんをとる",
+      "type": "Verb",
+      "Meaning": "To communicate"
+    },
+    {
+      "Kanji": "人間関係を構築する",
+      "hiragana": "にんげんかんけいをこうちくする",
+      "type": "Verb",
+      "Meaning": "To build relationships"
+    },
+    {
+      "Kanji": "音楽を楽しむ",
+      "hiragana": "おんがくをたのしむ",
+      "type": "Verb",
+      "Meaning": "To enjoy music"
+    },
+    {
+      "Kanji": "自然に触れる",
+      "hiragana": "しぜんにふれる",
+      "type": "Verb",
+      "Meaning": "To experience nature"
+    },
+    {
+      "Kanji": "健康的な生活を送る",
+      "hiragana": "けんこうてきなせいかつをおくる",
+      "type": "Verb",
+      "Meaning": "To live a healthy lifestyle"
+    },
+    {
+      "Kanji": "文化を尊重する",
+      "hiragana": "ぶんかをそんちょうする",
+      "type": "Verb",
+      "Meaning": "To respect culture"
+    },
+    {
+      "Kanji": "美を追求する",
+      "hiragana": "びをついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue beauty"
+    },
+    {
+      "Kanji": "内省する",
+      "hiragana": "ないせいする",
+      "type": "Verb",
+      "Meaning": "To introspect"
+    },
+    {
+      "Kanji": "謙虚さを持つ",
+      "hiragana": "けんきょさをもつ",
+      "type": "Verb",
+      "Meaning": "To be humble"
+    },
+    {
+      "Kanji": "知恵を絞る",
+      "hiragana": "ちえをしぼる",
+      "type": "Verb",
+      "Meaning": "To brainstorm"
+    },
+    {
+      "Kanji": "革新的なアイデアを生み出す",
+      "hiragana": "かくしんてきなあいであをうみだす",
+      "type": "Verb",
+      "Meaning": "To generate innovative ideas"
+    },
+    {
+      "Kanji": "成果を上げる",
+      "hiragana": "せいかをあげる",
+      "type": "Verb",
+      "Meaning": "To achieve results"
+    },
+    {
+      "Kanji": "未来を切り拓く",
+      "hiragana": "みらいをきりひらく",
+      "type": "Verb",
+      "Meaning": "To pave the way for the future"
+    },
+    {
+      "Kanji": "社会貢献する",
+      "hiragana": "しゃかいこうけんする",
+      "type": "Verb",
+      "Meaning": "To contribute to society"
+    },
+    {
+      "Kanji": "高い倫理基準を持つ",
+      "hiragana": "たかいりんりきじゅんをもつ",
+      "type": "Verb",
+      "Meaning": "To have high ethical standards"
+    },
+    {
+      "Kanji": "知識を共有する",
+      "hiragana": "ちしきをきょうゆうする",
+      "type": "Verb",
+      "Meaning": "To share knowledge"
+    },
+    {
+      "Kanji": "啓発活動を行う",
+      "hiragana": "けいはつかつどうをおこなう",
+      "type": "Verb",
+      "Meaning": "To engage in educational activities"
+    },
+    {
+      "Kanji": "社会問題に取り組む",
+      "hiragana": "しゃかいもんだいにとりくむ",
+      "type": "Verb",
+      "Meaning": "To address social issues"
+    },
+    {
+      "Kanji": "創造性を引き出す",
+      "hiragana": "そうぞうせいをひきだす",
+      "type": "Verb",
+      "Meaning": "To unleash creativity"
+    },
+    {
+      "Kanji": "自己成長を促す",
+      "hiragana": "じこせいちょうをうながす",
+      "type": "Verb",
+      "Meaning": "To foster personal growth"
+    },
+    {
+      "Kanji": "知識を実践する",
+      "hiragana": "ちしきをじっせんする",
+      "type": "Verb",
+      "Meaning": "To apply knowledge"
+    },
+    {
+      "Kanji": "チームワークを発揮する",
+      "hiragana": "ちーむわーくをはっきする",
+      "type": "Verb",
+      "Meaning": "To demonstrate teamwork"
+    },
+    {
+      "Kanji": "着実に進歩する",
+      "hiragana": "ちゃくじつにしんぽする",
+      "type": "Verb",
+      "Meaning": "To make steady progress"
+    },
+    {
+      "Kanji": "夢を追いかける",
+      "hiragana": "ゆめをおいかける",
+      "type": "Verb",
+      "Meaning": "To chase after dreams"
+    },
+    {
+      "Kanji": "目標に向かって努力する",
+      "hiragana": "もくひょうにむかってどりょくする",
+      "type": "Verb",
+      "Meaning": "To strive towards goals"
+    },
+    {
+      "Kanji": "自信を持つ",
+      "hiragana": "じしんをもつ",
+      "type": "Verb",
+      "Meaning": "To have confidence"
+    },
+    {
+      "Kanji": "意欲を高める",
+      "hiragana": "いよくをたかめる",
+      "type": "Verb",
+      "Meaning": "To enhance motivation"
+    },
+    {
+      "Kanji": "時間を有効活用する",
+      "hiragana": "じかんをゆうこうかつようする",
+      "type": "Verb",
+      "Meaning": "To make efficient use of time"
+    },
+    {
+      "Kanji": "知識を深める",
+      "hiragana": "ちしきをふかめる",
+      "type": "Verb",
+      "Meaning": "To deepen knowledge"
+    },
+    {
+      "Kanji": "内外の情報を収集する",
+      "hiragana": "ないがいのじょうほうをしゅうしゅうする",
+      "type": "Verb",
+      "Meaning": "To gather information from various sources"
+    },
+    {
+      "Kanji": "目的を明確にする",
+      "hiragana": "もくてきをめいかくにする",
+      "type": "Verb",
+      "Meaning": "To clarify objectives"
+    },
+    {
+      "Kanji": "問題意識を持つ",
+      "hiragana": "もんだいいしきをもつ",
+      "type": "Verb",
+      "Meaning": "To have problem awareness"
+    },
+    {
+      "Kanji": "柔軟性を発揮する",
+      "hiragana": "じゅうなんせいをはっきする",
+      "type": "Verb",
+      "Meaning": "To demonstrate flexibility"
+    },
+    {
+      "Kanji": "信頼関係を築く",
+      "hiragana": "しんらいかんけいをきずく",
+      "type": "Verb",
+      "Meaning": "To build trust relationships"
+    },
+    {
+      "Kanji": "多様な視点を取り入れる",
+      "hiragana": "たようなしてんをとりいれる",
+      "type": "Verb",
+      "Meaning": "To incorporate diverse perspectives"
+    },
+    {
+      "Kanji": "好奇心を持つ",
+      "hiragana": "こうきしんをもつ",
+      "type": "Verb",
+      "Meaning": "To have curiosity"
+    },
+    {
+      "Kanji": "革新的な解決策を見つける",
+      "hiragana": "かくしんてきなかいけつさくをみつける",
+      "type": "Verb",
+      "Meaning": "To find innovative solutions"
+    },
+    {
+      "Kanji": "知識と経験を共有する",
+      "hiragana": "ちしきとけいけんをきょうゆうする",
+      "type": "Verb",
+      "Meaning": "To share knowledge and experiences"
+    },
+    {
+      "Kanji": "資格を取得する",
+      "hiragana": "しかくをとくとくする",
+      "type": "Verb",
+      "Meaning": "To acquire qualifications"
+    },
+    {
+      "Kanji": "健康な精神を育む",
+      "hiragana": "けんこうなせいしんをはぐくむ",
+      "type": "Verb",
+      "Meaning": "To cultivate a healthy mind"
+    },
+    {
+      "Kanji": "価値観を尊重する",
+      "hiragana": "かちかんをそんちょうする",
+      "type": "Verb",
+      "Meaning": "To respect values"
+    },
+    {
+      "Kanji": "自己管理を行う",
+      "hiragana": "じこかんりをおこなう",
+      "type": "Verb",
+      "Meaning": "To practice self-management"
+    },
+    {
+      "Kanji": "適応力を持つ",
+      "hiragana": "てきおうりょくをもつ",
+      "type": "Verb",
+      "Meaning": "To have adaptability"
+    },
+    {
+      "Kanji": "問題解決力を養う",
+      "hiragana": "もんだいかいけつりょくをやしなう",
+      "type": "Verb",
+      "Meaning": "To cultivate problem-solving skills"
+    },
+    {
+      "Kanji": "個人の能力を伸ばす",
+      "hiragana": "こじんののうりょくをのばす",
+      "type": "Verb",
+      "Meaning": "To develop individual abilities"
+    },
+    {
+      "Kanji": "環境意識を高める",
+      "hiragana": "かんきょういしきをたかめる",
+      "type": "Verb",
+      "Meaning": "To raise environmental awareness"
+    },
+    {
+      "Kanji": "関心事に対応する",
+      "hiragana": "かんしんじにたいおうする",
+      "type": "Verb",
+      "Meaning": "To address concerns"
+    },
+    {
+      "Kanji": "批判的思考を養う",
+      "hiragana": "ひはんてきしこうをやしなう",
+      "type": "Verb",
+      "Meaning": "To foster critical thinking"
+    },
+    {
+      "Kanji": "音楽を演奏する",
+      "hiragana": "おんがくをえんそうする",
+      "type": "Verb",
+      "Meaning": "To perform music"
+    },
+    {
+      "Kanji": "芸術を鑑賞する",
+      "hiragana": "げいじゅつをかんしょうする",
+      "type": "Verb",
+      "Meaning": "To appreciate art"
+    },
+    {
+      "Kanji": "自己啓発書を読む",
+      "hiragana": "じこけいはつしょをよむ",
+      "type": "Verb",
+      "Meaning": "To read self-improvement books"
+    },
+    {
+      "Kanji": "自己表現をする",
+      "hiragana": "じこひょうげんをする",
+      "type": "Verb",
+      "Meaning": "To express oneself"
+    },
+    {
+      "Kanji": "文学作品を読む",
+      "hiragana": "ぶんがくさくひんをよむ",
+      "type": "Verb",
+      "Meaning": "To read literary works"
+    },
+    {
+      "Kanji": "ボランティア活動をする",
+      "hiragana": "ぼらんてぃあかつどうをする",
+      "type": "Verb",
+      "Meaning": "To engage in volunteer activities"
+    },
+    {
+      "Kanji": "健康に気を遣う",
+      "hiragana": "けんこうにきをつかう",
+      "type": "Verb",
+      "Meaning": "To be mindful of health"
+    },
+    {
+      "Kanji": "外国語を学ぶ",
+      "hiragana": "がいこくごをまなぶ",
+      "type": "Verb",
+      "Meaning": "To learn a foreign language"
+    },
+    {
+      "Kanji": "時事問題に関心を持つ",
+      "hiragana": "じじもんだいにかんしんをもつ",
+      "type": "Verb",
+      "Meaning": "To have an interest in current affairs"
+    },
+    {
+      "Kanji": "プレゼンテーションを行う",
+      "hiragana": "ぷれぜんてーしょんをおこなう",
+      "type": "Verb",
+      "Meaning": "To conduct a presentation"
+    },
+    {
+      "Kanji": "クリエイティブなアウトプットをする",
+      "hiragana": "くりえいてぃぶなあうとぷっとをする",
+      "type": "Verb",
+      "Meaning": "To engage in creative output"
+    },
+    {
+      "Kanji": "自分の強みを活かす",
+      "hiragana": "じぶんのつよみをいかす",
+      "type": "Verb",
+      "Meaning": "To leverage one's strengths"
+    },
+    {
+      "Kanji": "新しい技術を学ぶ",
+      "hiragana": "あたらしいぎじゅつをまなぶ",
+      "type": "Verb",
+      "Meaning": "To learn new technologies"
+    },
+    {
+      "Kanji": "情報の信頼性を確認する",
+      "hiragana": "じょうほうのしんらいせいをかくにんする",
+      "type": "Verb",
+      "Meaning": "To verify the reliability of information"
+    },
+    {
+      "Kanji": "チャレンジ精神を持つ",
+      "hiragana": "ちゃれんじせいしんをもつ",
+      "type": "Verb",
+      "Meaning": "To have a spirit of challenge"
+    },
+    {
+      "Kanji": "マネジメント能力を向上する",
+      "hiragana": "まねじめんとのうりょくをこうじょうする",
+      "type": "Verb",
+      "Meaning": "To improve management skills"
+    },
+    {
+      "Kanji": "アイデアを発信する",
+      "hiragana": "あいであをはっしんする",
+      "type": "Verb",
+      "Meaning": "To share ideas"
+    },
+    {
+      "Kanji": "視野を広げる",
+      "hiragana": "しやをひろげる",
+      "type": "Verb",
+      "Meaning": "To broaden one's horizons"
+    },
+    {
+      "Kanji": "成長志向を持つ",
+      "hiragana": "せいちょうしこうをもつ",
+      "type": "Verb",
+      "Meaning": "To have a growth mindset"
+    },
+    {
+      "Kanji": "セルフコントロールを行う",
+      "hiragana": "せるふこんとろーるをおこなう",
+      "type": "Verb",
+      "Meaning": "To practice self-control"
+    },
+    {
+      "Kanji": "イノベーションを推進する",
+      "hiragana": "いのべーしょんをすいしんする",
+      "type": "Verb",
+      "Meaning": "To drive innovation"
+    },
+    {
+      "Kanji": "グローバルな視点を持つ",
+      "hiragana": "ぐろーばるなしてんをもつ",
+      "type": "Verb",
+      "Meaning": "To have a global perspective"
+    },
+    {
+      "Kanji": "責任を果たす",
+      "hiragana": "せきにんをはたす",
+      "type": "Verb",
+      "Meaning": "To fulfill responsibilities"
+    },
+    {
+      "Kanji": "知識を体系化する",
+      "hiragana": "ちしきをたいけいかする",
+      "type": "Verb",
+      "Meaning": "To systematize knowledge"
+    },
+    {
+      "Kanji": "人生を楽しむ",
+      "hiragana": "じんせいをたのしむ",
+      "type": "Verb",
+      "Meaning": "To enjoy life"
+    },
+    {
+      "Kanji": "クリティカルシンキングを養う",
+      "hiragana": "くりてぃかるしんきんぐをやしなう",
+      "type": "Verb",
+      "Meaning": "To cultivate critical thinking"
+    },
+    {
+      "Kanji": "貢献する",
+      "hiragana": "こうけんする",
+      "type": "Verb",
+      "Meaning": "To contribute"
+    },
+    {
+      "Kanji": "人権を尊重する",
+      "hiragana": "じんけんをそんちょうする",
+      "type": "Verb",
+      "Meaning": "To respect human rights"
+    },
+    {
+      "Kanji": "音楽を作曲する",
+      "hiragana": "おんがくをさっきょくする",
+      "type": "Verb",
+      "Meaning": "To compose music"
+    },
+    {
+      "Kanji": "リーダーシップを発揮する",
+      "hiragana": "りーだーしっぷをはっきする",
+      "type": "Verb",
+      "Meaning": "To demonstrate leadership"
+    },
+    {
+      "Kanji": "モチベーションを維持する",
+      "hiragana": "もちべーしょんをいじする",
+      "type": "Verb",
+      "Meaning": "To maintain motivation"
+    },
+    {
+      "Kanji": "問題解決能力を鍛える",
+      "hiragana": "もんだいかいけつのうりょくをきたえる",
+      "type": "Verb",
+      "Meaning": "To hone problem-solving abilities"
+    },
+    {
+      "Kanji": "コミュニケーションスキルを向上する",
+      "hiragana": "こみゅにけーしょんすきるをこうじょうする",
+      "type": "Verb",
+      "Meaning": "To improve communication skills"
+    },
+    {
+      "Kanji": "インスピレーションを得る",
+      "hiragana": "いんすぴれーしょんをえる",
+      "type": "Verb",
+      "Meaning": "To gain inspiration"
+    },
+    {
+      "Kanji": "モチベーションを引き出す",
+      "hiragana": "もちべーしょんをひきだす",
+      "type": "Verb",
+      "Meaning": "To elicit motivation"
+    },
+    {
+      "Kanji": "自分を挑戦する",
+      "hiragana": "じぶんをちょうせんする",
+      "type": "Verb",
+      "Meaning": "To challenge oneself"
+    },
+    {
+      "Kanji": "コミュニティに参加する",
+      "hiragana": "こみゅにてぃにさんかする",
+      "type": "Verb",
+      "Meaning": "To participate in a community"
+    },
+    {
+      "Kanji": "知識を継続的に学ぶ",
+      "hiragana": "ちしきをけいぞくてきにまなぶ",
+      "type": "Verb",
+      "Meaning": "To continuously learn knowledge"
+    },
+    {
+      "Kanji": "プロジェクトを推進する",
+      "hiragana": "ぷろじぇくとをすいしんする",
+      "type": "Verb",
+      "Meaning": "To drive projects"
+    },
+    {
+      "Kanji": "健康的な食生活を送る",
+      "hiragana": "けんこうてきなしょくせいかつをおくる",
+      "type": "Verb",
+      "Meaning": "To maintain a healthy diet"
+    },
+    {
+      "Kanji": "アクティブラーニングを実践する",
+      "hiragana": "あくてぃぶらーにんぐをじっせんする",
+      "type": "Verb",
+      "Meaning": "To practice active learning"
+    },
+    {
+      "Kanji": "チームビルディングを行う",
+      "hiragana": "ちーむびるでぃんぐをおこなう",
+      "type": "Verb",
+      "Meaning": "To conduct team building"
+    },
+    {
+      "Kanji": "持続可能な行動をとる",
+      "hiragana": "じぞくかのうなこうどうをとる",
+      "type": "Verb",
+      "Meaning": "To take sustainable actions"
+    },
+    {
+      "Kanji": "開放的な考え方を持つ",
+      "hiragana": "かいほうてきなかんがえかたをもつ",
+      "type": "Verb",
+      "Meaning": "To have an open-minded approach"
+    },
+    {
+      "Kanji": "創造的な解決策を見つけ出す",
+      "hiragana": "そうぞうてきなかいけつさくをみつけだす",
+      "type": "Verb",
+      "Meaning": "To discover creative solutions"
+    },
+    {
+      "Kanji": "ソーシャルスキルを磨く",
+      "hiragana": "そーしゃるすきるをみがく",
+      "type": "Verb",
+      "Meaning": "To polish social skills"
+    },
+    {
+      "Kanji": "教養を深める",
+      "hiragana": "きょうようをふかめる",
+      "type": "Verb",
+      "Meaning": "To deepen one's cultural knowledge"
+    },
+    {
+      "Kanji": "プレゼンテーションのスキルを磨く",
+      "hiragana": "ぷれぜんてーしょんのすきるをみがく",
+      "type": "Verb",
+      "Meaning": "To refine presentation skills"
+    },
+    {
+      "Kanji": "積極的に学ぶ",
+      "hiragana": "せっきょくてきにまなぶ",
+      "type": "Verb",
+      "Meaning": "To actively learn"
+    },
+    {
+      "Kanji": "知識を広げる",
+      "hiragana": "ちしきをひろげる",
+      "type": "Verb",
+      "Meaning": "To broaden knowledge"
+    },
+    {
+      "Kanji": "集中力を高める",
+      "hiragana": "しゅうちゅうりょくをたかめる",
+      "type": "Verb",
+      "Meaning": "To enhance concentration"
+    },
+    {
+      "Kanji": "未来に向けて計画する",
+      "hiragana": "みらいにむけてけいかくする",
+      "type": "Verb",
+      "Meaning": "To plan for the future"
+    },
+    {
+      "Kanji": "プロフェッショナリズムを持つ",
+      "hiragana": "ぷろふぇっしょなりずむをもつ",
+      "type": "Verb",
+      "Meaning": "To embody professionalism"
+    },
+    {
+      "Kanji": "国際交流を推進する",
+      "hiragana": "こくさいこうりゅうをすいしんする",
+      "type": "Verb",
+      "Meaning": "To promote international exchange"
+    },
+    {
+      "Kanji": "イノベーションを創出する",
+      "hiragana": "いのべーしょんをそうしゅつする",
+      "type": "Verb",
+      "Meaning": "To create innovation"
+    },
+    {
+      "Kanji": "時間管理をする",
+      "hiragana": "じかんかんりをする",
+      "type": "Verb",
+      "Meaning": "To manage time"
+    },
+    {
+      "Kanji": "健康なライフスタイルを実践する",
+      "hiragana": "けんこうならいふすたいるをじっせんする",
+      "type": "Verb",
+      "Meaning": "To practice a healthy lifestyle"
+    },
+    {
+      "Kanji": "社会貢献活動を行う",
+      "hiragana": "しゃかいこうけんかつどうをおこなう",
+      "type": "Verb",
+      "Meaning": "To engage in social contribution activities"
+    },
+    {
+      "Kanji": "情報を分析する",
+      "hiragana": "じょうほうをぶんせきする",
+      "type": "Verb",
+      "Meaning": "To analyze information"
+    },
+    {
+      "Kanji": "失敗から学ぶ",
+      "hiragana": "しっぱいからまなぶ",
+      "type": "Verb",
+      "Meaning": "To learn from failures"
+    },
+    {
+      "Kanji": "効果的なコミュニケーションをする",
+      "hiragana": "こうかてきなこみゅにけーしょんをする",
+      "type": "Verb",
+      "Meaning": "To communicate effectively"
+    },
+    {
+      "Kanji": "夢を追い求める",
+      "hiragana": "ゆめをおいもとめる",
+      "type": "Verb",
+      "Meaning": "To pursue dreams"
+    },
+    {
+      "Kanji": "信念を持つ",
+      "hiragana": "しんねんをもつ",
+      "type": "Verb",
+      "Meaning": "To have beliefs"
+    },
+    {
+      "Kanji": "成果を評価する",
+      "hiragana": "せいかをひょうかする",
+      "type": "Verb",
+      "Meaning": "To evaluate results"
+    },
+    {
+      "Kanji": "責任感を持つ",
+      "hiragana": "せきにんかんをもつ",
+      "type": "Verb",
+      "Meaning": "To have a sense of responsibility"
+    },
+    {
+      "Kanji": "創造性を発揮する",
+      "hiragana": "そうぞうせいをはっきする",
+      "type": "Verb",
+      "Meaning": "To demonstrate creativity"
+    },
+    {
+      "Kanji": "職業道徳を守る",
+      "hiragana": "しょくぎょうどうとくをまもる",
+      "type": "Verb",
+      "Meaning": "To uphold professional ethics"
+    },
+    {
+      "Kanji": "資源を節約する",
+      "hiragana": "しげんをせつやくする",
+      "type": "Verb",
+      "Meaning": "To conserve resources"
+    },
+    {
+      "Kanji": "言語の習得を目指す",
+      "hiragana": "げんごのしゅとくをめざす",
+      "type": "Verb",
+      "Meaning": "To aim for language proficiency"
+    },
+    {
+      "Kanji": "柔軟な思考を持つ",
+      "hiragana": "じゅうなんなしこうをもつ",
+      "type": "Verb",
+      "Meaning": "To have flexible thinking"
+    },
+    {
+      "Kanji": "職場で協力する",
+      "hiragana": "しょくばできょうりょくする",
+      "type": "Verb",
+      "Meaning": "To cooperate in the workplace"
+    },
+    {
+      "Kanji": "継続力を養う",
+      "hiragana": "けいぞくりょくをやしなう",
+      "type": "Verb",
+      "Meaning": "To cultivate perseverance"
+    },
+    {
+      "Kanji": "知恵を絞る",
+      "hiragana": "ちえをしぼる",
+      "type": "Verb",
+      "Meaning": "To brainstorm"
+    },
+    {
+      "Kanji": "知識を共有する",
+      "hiragana": "ちしきをきょうゆうする",
+      "type": "Verb",
+      "Meaning": "To share knowledge"
+    },
+    {
+      "Kanji": "理解を深める",
+      "hiragana": "りかいをふかめる",
+      "type": "Verb",
+      "Meaning": "To deepen understanding"
+    },
+    {
+      "Kanji": "社会的な影響力を持つ",
+      "hiragana": "しゃかいてきなえいきょうりょくをもつ",
+      "type": "Verb",
+      "Meaning": "To have social influence"
+    },
+    {
+      "Kanji": "問題に対処する",
+      "hiragana": "もんだいにたいしょする",
+      "type": "Verb",
+      "Meaning": "To address issues"
+    },
+    {
+      "Kanji": "信念を貫く",
+      "hiragana": "しんねんをつらぬく",
+      "type": "Verb",
+      "Meaning": "To uphold beliefs"
+    },
+    {
+      "Kanji": "多様性を尊重する",
+      "hiragana": "たようせいをそんちょうする",
+      "type": "Verb",
+      "Meaning": "To respect diversity"
+    },
+    {
+      "Kanji": "成果を追求する",
+      "hiragana": "せいかをついきゅうする",
+      "type": "Verb",
+      "Meaning": "To pursue results"
+    },
+    {
+      "Kanji": "知識を活用する",
+      "hiragana": "ちしきをかつようする",
+      "type": "Verb",
+      "Meaning": "To apply knowledge"
+    },
+    {
+      "Kanji": "時間を有効活用する",
+      "hiragana": "じかんをゆうこうかつようする",
+      "type": "Verb",
+      "Meaning": "To make effective use of time"
+    },
+    {
+      "Kanji": "夢を実現する",
+      "hiragana": "ゆめをじつげんする",
+      "type": "Verb",
+      "Meaning": "To fulfill dreams"
+    },
+    {
+      "Kanji": "状況に応じて適応する",
+      "hiragana": "じょうきょうにおうじててきおうする",
+      "type": "Verb",
+      "Meaning": "To adapt to situations"
+    },
+    {
+      "Kanji": "知識を共有し合う",
+      "hiragana": "ちしきをきょうゆうしあう",
+      "type": "Verb",
+      "Meaning": "To share knowledge with others"
+    },
+    {
+      "Kanji": "自己成長を促進する",
+      "hiragana": "じこせいちょうをそくしんする",
+      "type": "Verb",
+      "Meaning": "To foster self-growth"
+    },
+    {
+      "Kanji": "チャンスを活かす",
+      "hiragana": "ちゃんすをいかす",
+      "type": "Verb",
+      "Meaning": "To seize opportunities"
+    },
+    {
+      "Kanji": "環境問題に取り組む",
+      "hiragana": "かんきょうもんだいにとりくむ",
+      "type": "Verb",
+      "Meaning": "To tackle environmental issues"
+    },
+    {
+      "Kanji": "倫理的な行動を取る",
+      "hiragana": "りんりてきなこうどうをとる",
+      "type": "Verb",
+      "Meaning": "To take ethical actions"
+    },
+    {
+      "Kanji": "問題意識を持つ",
+      "hiragana": "もんだいいしきをもつ",
+      "type": "Verb",
+      "Meaning": "To have problem awareness"
+    },
+    {
+      "Kanji": "価値観を大切にする",
+      "hiragana": "かちかんをたいせつにする",
+      "type": "Verb",
+      "Meaning": "To value one's principles"
+    },
+    {
+      "Kanji": "人間関係を築く",
+      "hiragana": "にんげんかんけいをきずく",
+      "type": "Verb",
+      "Meaning": "To build relationships"
+    },
+    {
+      "Kanji": "信頼関係を構築する",
+      "hiragana": "しんらいかんけいをこうちくする",
+      "type": "Verb",
+      "Meaning": "To establish trust relationships"
+    },
+    {
+      "Kanji": "効率的に働く",
+      "hiragana": "こうりつてきにはたらく",
+      "type": "Verb",
+      "Meaning": "To work efficiently"
+    },
+    {
+      "Kanji": "資格を取得する",
+      "hiragana": "しかくをとくしゅする",
+      "type": "Verb",
+      "Meaning": "To obtain qualifications"
+    },
+    {
+      "Kanji": "実践的な経験を積む",
+      "hiragana": "じっせんてきなけいけんをつむ",
+      "type": "Verb",
+      "Meaning": "To gain practical experience"
+    },
+    {
+      "Kanji": "自分自身を成長させる",
+      "hiragana": "じぶんじしんをせいちょうさせる",
+      "type": "Verb",
+      "Meaning": "To cultivate self-growth"
+    },
+    {
+      "Kanji": "目標を設定する",
+      "hiragana": "もくひょうをせっていする",
+      "type": "Verb",
+      "Meaning": "To set goals"
+    },
+    {
+      "Kanji": "努力を惜しまない",
+      "hiragana": "どりょくをおしまない",
+      "type": "Verb",
+      "Meaning": "To spare no effort"
+    }
+  ]
+}
